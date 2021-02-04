@@ -42,4 +42,6 @@ Uncomment code block is Ctrl+C+U-->
 
 [example link to idealab](https://idealab.asu.edu)
 
-## References
+## Bibliography
+
+[Link to Bibliography](https://biodegradablerobotics.github.io/Bibliography)
