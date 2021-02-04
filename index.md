@@ -41,4 +41,4 @@ _Italic Text_
 
 
 ## Bibliography
-[link to bibliography](/Bibliography)
+[link to Bibliography](/Bibliography)
