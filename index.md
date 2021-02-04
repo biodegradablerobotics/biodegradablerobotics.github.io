@@ -41,4 +41,4 @@ _Italic Text_
 
 
 ## Bibliography
-[link to Bibliography](/Bibliography)
+[link to Bibliography](https://biodegradablerobotics.github.io/Bibliography)
