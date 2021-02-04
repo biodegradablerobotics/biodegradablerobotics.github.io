@@ -1,7 +1,11 @@
-Can a mobile robot be constructed entirely from degradable materials?
+---
+title: Can a mobile robot be constructed entirely from degradable materials?
+---
+# Can a mobile robot be constructed entirely from degradable materials?
 Chris Breaux, George Muhn, Lien White, Timothy Graunke
 
-Tractability: Is your question tractable and achievable? Discuss your plan for scoping your problem to fit in a 15-week course. (>1 paragraph)
+## Tractability
+Is your question tractable and achievable? Discuss your plan for scoping your problem to fit in a 15-week course. (>1 paragraph)
 How have you focused or constrained the problem to differentiate yourself and/or become more tractable?
 Examples include looking at one specific type of motion, using a specific animal as a source of inspiration (for generating unique specifications), or limiting yourself to a particular set of materials, parts, cost requirements, etc.
 
