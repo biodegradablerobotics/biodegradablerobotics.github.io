@@ -1,10 +1,15 @@
 ---
-title: Home
+title: Biodegradable Robotics
 ---
 
 # Home
 
 ## Introduction
+**_Team 3_**
+Chris Breaux    _cbreaux1@asu.edu_
+Time Graunke    _tagraunk@asu.edu_
+George Muhn     _gmuhn@asu.edu_
+Lien White      _ljwhite8@asu.edu_
 
 **Bold Text**
 _Italic Text_
