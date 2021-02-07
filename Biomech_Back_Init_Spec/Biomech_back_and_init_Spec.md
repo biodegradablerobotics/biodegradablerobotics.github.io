@@ -71,7 +71,7 @@ Figure 2.
 
 **Simple Engineering Representation**
 
-![](/Biomech_Back_Init_Spec/System%201.jpg)
+![](/Biomech_Back_Init_Spec/System%20I.jpg)
 
 ![](/Biomech_Back_Init_Spec/System%202.jpg)
 
