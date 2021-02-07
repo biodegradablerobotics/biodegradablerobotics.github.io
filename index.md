@@ -23,10 +23,12 @@ _Italic Text_
 Comment code block is Ctrl+C+K
 Uncomment code block is Ctrl+C+U-->
 
+# Assignments
 
-## Research Question
+## [Develop a Research Question](https://biodegradablerobotics.github.io/Develop%20a%20Research%20Question)
 
-[Develop a Research Question](https://biodegradablerobotics.github.io/Develop%20a%20Research%20Question)
+## [Biomechanics Background and Initial Specifications](/Biomech_Back_Init_Spec/Biomech_back_and_init_Spec)
+
 
 ## Background
 

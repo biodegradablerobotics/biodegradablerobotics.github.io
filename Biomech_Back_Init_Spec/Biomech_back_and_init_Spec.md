@@ -1,18 +1,18 @@
-#
+
 # Snake Biomechanics Background and Initial Specifications
 
 Team 3: SNEK (Sustainable &#39;N Eco-friendly Kobra)
 
 Chris Breaux, George Muhn, Lien White, Timothy Graunke
 
-##
 
 
 ## Candidate Organism
 
 Our candidate organism is the red racer snake _Coluber flagellum piceus_ [1].
 
-1. **List five of the most closely related research references on topics pertinent to your project, in IEEE format. Identify three citations which are most useful in creating initial specifications for your robot.**
+**List five of the most closely related research references on topics pertinent to your project, in IEEE format. Identify three citations which are most useful in creating initial specifications for your robot.**
+
   1. \* [What Defines Different Modes of Snake Locomotion?](https://academic.oup.com/icb/article/60/1/156/5818495?login=true) [2]
   2. [Analysis of Snake Movement Forms for Realization of Snake-like Robots](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=774054) [3]
   3. [Snake-like locomotion: Experimentations with a biologically inspired wheel-less snake robot](https://www.sciencedirect.com/science/article/pii/S0094114X08001791?casa_token=6d2-Cx3ZBlwAAAAA:4AvpvndeUjNc-Te5b_yt8oC4ng0ITnHuLjddWn1s9K9acWpJJon6TGRk86L_CripJWyUtYQxhTM) [4]
@@ -27,7 +27,7 @@ Our candidate organism is the red racer snake _Coluber flagellum piceus_ [1].
 
 **Existing Bio-Inspired Robots**
 
-1. **List five of the most closely-related research references on topics pertinent to your project in IEEE format. Identify three citations which are most useful in creating initial specifications for your robot.**
+**List five of the most closely-related research references on topics pertinent to your project in IEEE format. Identify three citations which are most useful in creating initial specifications for your robot.**
   1. [Analysis and control of a gait of snake robot](https://www.jstage.jst.go.jp/article/ieejias1987/120/3/120_3_372/_article/-char/ja/)[7]
   2. \*[Design of a modular snake robot](https://www.semanticscholar.org/paper/Design-of-a-modular-snake-robot-Wright-Johnson/698ca88c612ba132db0fca64ae4d8c42a27a6eb7) [8]
   3. [Modular Snake Robots](http://biorobotics.ri.cmu.edu/projects/modsnake/) [9]
