@@ -57,13 +57,13 @@ Our candidate organism is the red racer snake _Coluber flagellum piceus_ [1].
 
 **Figures of Biological System**
 
-![](RackMultipart20210207-4-1mmkxpn_html_f377bc3642301c58.png)
+![](/Biomech_Back_Init_Spec/snakeskelsyst.png)
 
 Figure 1.
 
 The musculoskeletal system of a snake that shows how a snake&#39;s muscle contracts and relaxes then interacting with its skeletal system. This system creates a S motion but straight path [2].
 
-![](RackMultipart20210207-4-1mmkxpn_html_5f6d1614008f1a76.jpg)
+![](/Biomech_Back_Init_Spec/Snake%20Motion.jpg)
 
 Figure 2.
 
@@ -71,11 +71,9 @@ Figure 2.
 
 **Simple Engineering Representation**
 
-![](RackMultipart20210207-4-1mmkxpn_html_faaa3efb0a0c0beb.jpg)
+![](/Biomech_Back_Init_Spec/System%201.jpg)
 
-![](RackMultipart20210207-4-1mmkxpn_html_e868f576ea4c7040.jpg)
-
-##
+![](/Biomech_Back_Init_Spec/System%202.jpg)
 
 
 ## **Discussion**
@@ -89,8 +87,6 @@ The largest red racer is 256 grams and 1.65 meters. This is not a lot of materia
 A 150:1 micrometal gear motor [12] and battery [13] that could fit our specifications for creating a snake like robot. This motor is small, light and produces a good amount of torque for our desired outcome. The battery is also small and light but would require a second battery in series to obtain the correct voltage for the motors. The batteries would also provide enough amp hours to power 1 motor for 2.6 hours at max current efficiency and power 3 motors for 55min at max efficiency. A drawback is the max efficiency of the motor is 33%.
 
 For power rating output power for the motor at max efficiency is 0.3 Watts. This would provide a watts/kg ratio of 31.78 watt/kg, for purely the motor. A snake&#39;s average power to weight ratio is around 2.5 watt/kg. This would allow the team ~110g of weight for the rest of the material for the s.n.e.k. robot.
-
-##
 
 
 ## **References**
