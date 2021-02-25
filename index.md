@@ -32,7 +32,7 @@ Uncomment code block is Ctrl+C+U-->
 
 ## Background
 
-![Four Bar Wing Mechanism](/Wing/RenderedFlap.MP4)
+![Four Bar Wing Mechanism](Wing/RenderedFlap.MP4)
 
 [link to background](/background)
 
