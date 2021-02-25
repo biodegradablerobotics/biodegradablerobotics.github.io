@@ -4,6 +4,8 @@ title: Can a mobile robot be constructed entirely from degradable materials?
 # Can a mobile robot be constructed entirely from degradable materials?
 Chris Breaux, George Muhn, Lien White, Timothy Graunke
 
+[HOME](/index)
+
 ## Tractability
 Is your question tractable and achievable? Discuss your plan for scoping your problem to fit in a 15-week course. (>1 paragraph)
 How have you focused or constrained the problem to differentiate yourself and/or become more tractable?
@@ -53,3 +55,5 @@ References
 [3]	Pounds, P. (2012, December). Paper plane: Towards disposable low-cost folded cellulose-substrate UAVs. In Australasian Conference on Robotics and Automation (pp. 3-5). https://www.araa.asn.au/acra/acra2012/papers/pap143.pdf
 
 [4]	S. Bertoldo, C. Lucianaz, M. Allegretti, G. Perona, "Disposable falling sensors to monitor atmospheric parameters," Proc. SPIE 10001, Remote Sensing of Clouds and the Atmosphere XXI, 1000104 (19 October 2016); https://doi.org/10.1117/12.2241156
+
+[HOME](/index)
