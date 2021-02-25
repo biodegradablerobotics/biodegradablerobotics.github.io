@@ -1,5 +1,5 @@
 ---
-title: Biodegradable Robotics
+title: Welcome to B.I.R.B. 
 ---
 
 # Home
@@ -32,7 +32,7 @@ Uncomment code block is Ctrl+C+U-->
 
 ## Background
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![Four Bar Wing Mechanism](Wing/RenderedWing.png)
 
 [link to background](/background)
 
