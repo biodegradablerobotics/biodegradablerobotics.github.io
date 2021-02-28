@@ -15,12 +15,47 @@
     margin: 0;
     padding: 0;
   }
-  .section{
+  .linkrow{
     width: min(80vw, 800px);
-    color: white;
-    font-size: min(2vw, 20px);
-    text-align: left;
     margin: 0 auto
+  }
+  .linkrow:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .linkcolumn{
+    float: center;
+    width: 30%;
+    height: min(8vw, 80px);
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: auto min(3vw, 30px);
+    background-position: center center;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    border: 2px solid white;
+    margin: 0 auto;
+  }
+  .linkcolumn:hover .linkoverlay{
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  .linkoverlay{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    font-size: 20px;
+    margin: auto;
+    border-radius: 10px;
+  }
+  .textbutton{
+    color: white;
+    font-size: min(4vw, 40px);
+    text-align: center;
+    line-height: min(8vw, 80px);
+    padding: 0;
+    margin: 0;
   }
   .pdf{
     background-color:white;
@@ -35,10 +70,12 @@
   
   <p class=title align="center" style="margin: min(10vw, 100px) 0% 0% 0%">Presentation 1</p>
   
-  <div class=section align="center">
-    <a href="https://youtu.be/XKG0BpmfrLI" style="text-decoration: none;">
-      <p style="font-size: min(4vw, 40px)">Video</p>
-    </a>
+  <div class="linkrow" style=" margin: min(10vw, 100px) auto">
+    <div class="linkcolumn" align="center" style="width: 50%;">
+      <a href="https://youtu.be/XKG0BpmfrLI" style="text-decoration: none;">
+        <div class=linkoverlay><p class="textbutton">Video</p></div>
+      </a>
+    </div>
   </div>
   
   <p align="center">  
