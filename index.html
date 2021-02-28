@@ -21,6 +21,40 @@
     margin: 0vw 0vw min(4vw, 40px) 0vw;
     padding: 0;
   }
+  .linkrow{
+    width: min(80vw, 800px);
+    margin: 0 auto
+  }
+  .linkrow:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .linkcolumn{
+    float: left;
+    width: 30%;
+    height: min(8vw, 80px);
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: auto min(3vw, 30px);
+    background-position: center center;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    border: 2px solid white;
+  }
+  .linkcolumn:hover .linkoverlay{
+    opacity: 0.5;
+  }
+  .linkoverlay{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0;
+    color: white;
+    font-size: 20px;
+    margin: auto;
+    border-radius: 10px;
+  }
   .section{
     width: min(80vw, 800px);
     color: white;
@@ -73,6 +107,12 @@
   <p class=title align="center" style="margin: min(10vw, 100px) 0% 0% 0%">Welcome To B.I.R.B.</p>
   <p class=title align="center">Biodegradable Inspired Robotic Bird</p>
   <p class=subtitle align="center">EGR 557 Foldable Robotics Team 3</p>
+  
+  <div class="linkrow">
+    <div class="linkcolumn" align="center" style ="background-image: url('Images/GitHub.png');">
+      <a href="https://github.com/biodegradablerobotics/biodegradablerobotics.github.io"><div class=linkoverlay></div></a>
+    </div>
+  </div>
   
   <div class=section align="center">
     <p style="font-size: min(4vw, 40px)">Introduction</p>
