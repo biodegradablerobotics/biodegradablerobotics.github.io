@@ -5,7 +5,7 @@ Team 3: SNEK (Sustainable &#39;N Eco-friendly Kobra)
 
 Chris Breaux, George Muhn, Lien White, Timothy Graunke
 
-[HOME](index.md)
+
 
 ## Candidate Organism
 
@@ -116,6 +116,3 @@ For power rating output power for the motor at max efficiency is 0.3 Watts. This
 [12] &quot;Pololu - 150:1 Micro Metal Gearmotor MP 6V,&quot; _Pololu Robotics &amp; Electronics_. [Online]. Available: https://www.pololu.com/product/2368/specs. [Accessed: 07-Feb-2021].
 
 [13] &quot;AKZYTUE 3.7V 400mAh 802525 Lipo Battery Rechargeable Lithium Polymer ion Battery Pack with JST Connector,&quot; _Amazon.com_. [Online]. Available: https://www.amazon.com/AKZYTUE-Battery-Rechargeable-Lithium-Connector/dp/B07TVDNQNS/ref=sr\_1\_2?dchild=1&amp;keywords=3.7V+400mAh+Lithium+Polymer&amp;qid=1612665237&amp;s=hpc&amp;sr=1-2. [Accessed: 06-Feb-2021].
-
-
-[HOME](index.md)

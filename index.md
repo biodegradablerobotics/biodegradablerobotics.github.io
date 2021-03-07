@@ -125,16 +125,22 @@
   <div class=section align="center">
     <p style="font-size: min(4vw, 40px)">Introduction</p>
     <p style="margin: 0 0 0 5%;">Chris Breaux    cbreaux1@asu.edu</p>
+    <p style="margin: 0 0 0 5%;"><a href="https://christopherdbreaux.github.io/">All about Chris!</a></p>
     <p style="margin: 0 0 0 5%;">George Muhn     gmuhn@asu.edu</p>
+    <p style="margin: 0 0 0 5%;"><a href="https://geomuhn.github.io./">All about George!</a></p>
     <p style="margin: 0 0 0 5%;">Lien White      ljwhite8@asu.edu</p>
   </div>
   
   <div class=section align="center">
     <p style="font-size: min(4vw, 40px)">Assignments</p>
   </div>
-  
+
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Developing A Research Question</p>
+  </div>
+
   <div class=galleryrow align="center" style="background-image: url('Images/plastic.jfif'); background-size: cover">
-      <a href="developaresearchquestion.html" style="text-decoration: none;">
+      <a href="DevelopaResearchQuestion" style="text-decoration:none;"> 
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Develop a Research Question</b>
@@ -142,9 +148,13 @@
         </div>
       </a>
   </div>
+
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Biomechanics Background and initial Specifications for Duck</p>
+  </div>
   
   <div class=galleryrow align="center" style="background-image: url('Images/wingdiagram.png'); background-size: contain">
-      <a href="biomechanicsbackgroundandinitialspecifications.html" style="text-decoration: none;">
+      <a href="Duck_Bio_back_and_init_Specs" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Biomechanics Background and Initial Specifications</b>
@@ -152,9 +162,13 @@
         </div>
       </a>
   </div>
+
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">System Kinematics</p>
+  </div>
   
   <div class=galleryrow align="center" style="background-image: url('Images/kinematics.png'); background-size: contain">
-      <a href="systemkinematics.html" style="text-decoration: none;">
+      <a href="https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/System%20Kinematics.ipynb" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>System Kinematics</b>
@@ -163,6 +177,10 @@
       </a>
   </div>
   
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Presentation 1</p>
+  </div>
+
   <div class=galleryrow align="center" style="background-image: url('Images/presentation1.jpg'); background-size: cover">
       <a href="presentation1.html" style="text-decoration: none;">
         <div class=galleryoverlay>
@@ -172,9 +190,13 @@
         </div>
       </a>
   </div>
+
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">System Dynamics</p>
+  </div>
   
   <div class=galleryrow align="center" style="background-image: url('Images/dynamics.png'); background-size: contain">
-      <a href="systemdynamics.html" style="text-decoration: none;">
+      <a href="https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/System%20Dynamics.ipynb" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>System Dynamics</b>
@@ -182,10 +204,13 @@
         </div>
       </a>
   </div>
-  
+
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Bibliography</p>
+  </div>
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
     <div class="linkcolumn" align="center" style="width: 50%;">
-      <a href="https://github.com/biodegradablerobotics/biodegradablerobotics.github.io/blob/main/Documents/Bibliography.md" style="text-decoration: none;">
+      <a href="Bibliography" style="text-decoration: none;">
         <div class=linkoverlay><p class="textbutton">Bibliography</p></div>
       </a>
     </div>
