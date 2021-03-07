@@ -167,7 +167,6 @@
         </div>
       </a>
   </div>
-  
   ## Presentation 1
 
   <div class=galleryrow align="center" style="background-image: url('Images/presentation1.jpg'); background-size: cover">
