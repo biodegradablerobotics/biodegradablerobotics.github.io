@@ -133,6 +133,10 @@
     <p style="font-size: min(4vw, 40px)">Assignments</p>
   </div>
 
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Developing A Research Question</p>
+  </div>
+
   <div class=galleryrow align="center" style="background-image: url('Images/plastic.jfif'); background-size: cover">
       <a href="DevelopaResearchQuestion" style="text-decoration:none;"> 
         <div class=galleryoverlay>
@@ -141,6 +145,10 @@
           </div>
         </div>
       </a>
+  </div>
+
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Biomechanics Background and initial Specifications for Duck</p>
   </div>
   
   <div class=galleryrow align="center" style="background-image: url('Images/wingdiagram.png'); background-size: contain">
@@ -153,6 +161,9 @@
       </a>
   </div>
 
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">System Kinematics</p>
+  </div>
   
   <div class=galleryrow align="center" style="background-image: url('Images/kinematics.png'); background-size: contain">
       <a href="https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/System%20Kinematics.ipynb" style="text-decoration: none;">
