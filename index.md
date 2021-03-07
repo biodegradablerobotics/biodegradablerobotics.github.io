@@ -167,7 +167,10 @@
         </div>
       </a>
   </div>
-  ## Presentation 1
+  
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Presentation 1</p>
+  </div>
 
   <div class=galleryrow align="center" style="background-image: url('Images/presentation1.jpg'); background-size: cover">
       <a href="presentation1.html" style="text-decoration: none;">
