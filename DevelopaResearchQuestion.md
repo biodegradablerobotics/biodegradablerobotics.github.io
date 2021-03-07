@@ -4,7 +4,7 @@ title: Can a mobile robot be constructed entirely from degradable materials?
 # Can a mobile robot be constructed entirely from degradable materials?
 Chris Breaux, George Muhn, Lien White, Timothy Graunke
 
-[HOME](/index)
+[HOME](index.md)
 
 ## Tractability
 Is your question tractable and achievable? Discuss your plan for scoping your problem to fit in a 15-week course. (>1 paragraph)
