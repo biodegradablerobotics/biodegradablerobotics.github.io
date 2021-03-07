@@ -136,18 +136,14 @@
   [Developing A Research Question](DevelopaResearchQuestion.md)
 
   <div class=galleryrow align="center" style="background-image: url('Images/plastic.jfif'); background-size: cover">
-      <a href="DevelopaResearchQuestion" style="text-decoration:none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Develop a Research Question</b>
           </div>
         </div>
-        </a>
   </div>
 
-  <div class=section align="center">
-    <p style="font-size: min(4vw, 25px)">Biomechanics Background and Initial Specifications</p>
-  </div>
+  
   
   <div class=galleryrow align="center" style="background-image: url('Images/wingdiagram.png'); background-size: contain">
       <a href="biomechanicsbackgroundandinitialspecifications.html" style="text-decoration: none;">
