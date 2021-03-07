@@ -200,9 +200,11 @@
     <p style="font-size: min(4vw, 25px)">Bibliography</p>
   </div>
   
+[Bibliography](Documents/Bibliography.md)
+
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
     <div class="linkcolumn" align="center" style="width: 50%;">
-      <a href="https://github.com/biodegradablerobotics/biodegradablerobotics.github.io/blob/main/Documents/Bibliography.md" style="text-decoration: none;">
+      <a href="Bibliography" style="text-decoration: none;">
         <div class=linkoverlay><p class="textbutton">Bibliography</p></div>
       </a>
     </div>
