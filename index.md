@@ -145,10 +145,10 @@
       </a>
   </div>
 
-  [Bio-mechanics Background and Initial Specifications](Documents/Biomech_back_and_init_Spec.md)
+  [Bio-mechanics Background and Initial Specifications](Biomech_back_and_init_Spec.md)
   
   <div class=galleryrow align="center" style="background-image: url('Images/wingdiagram.png'); background-size: contain">
-      <a href="biomechanicsbackgroundandinitialspecifications" style="text-decoration: none;">
+      <a href="Biomech_back_and_init_Spec" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Biomechanics Background and Initial Specifications</b>
