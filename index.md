@@ -167,10 +167,6 @@
         </div>
       </a>
   </div>
-
-  <div class=section align="center">
-    <p style="font-size: min(4vw, 25px)">Presentation 1</p>
-  </div>
   
   <div class=galleryrow align="center" style="background-image: url('Images/presentation1.jpg'); background-size: cover">
       <a href="presentation1.html" style="text-decoration: none;">
@@ -187,7 +183,7 @@
   </div>
   
   <div class=galleryrow align="center" style="background-image: url('Images/dynamics.png'); background-size: contain">
-      <a href="systemdynamics.html" style="text-decoration: none;">
+      <a href="https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/System%20Dynamics.ipynb" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>System Dynamics</b>
