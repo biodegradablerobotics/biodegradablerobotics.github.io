@@ -136,7 +136,7 @@
   [Developing A Research Question](DevelopaResearchQuestion.md)
 
   <div class=galleryrow align="center" style="background-image: url('Images/plastic.jfif'); background-size: cover">
-      <a href="DevelopaResearchQuestion.md" style="text-decoration:none;"> 
+      <a href="DevelopaResearchQuestion" style="text-decoration:none;"> 
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Develop a Research Question</b>
