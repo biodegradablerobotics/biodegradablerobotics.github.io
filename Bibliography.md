@@ -1,6 +1,8 @@
 
 # Bibliography
 
+[HOME](Index.md)
+
 [1]“Mallard,” Wikipedia, 19-Feb-2021. [Online]. Available: https://en.wikipedia.org/wiki/Mallard.
 [Accessed: 28-Feb-2021].
 
@@ -76,3 +78,5 @@ sr=1-2. [Accessed: 06-Feb-2021].
 Malheiro, Benedita & Ribeiro, Cristina & Ferreira, Fernando & Silva, Manuel & Ferreira, Paulo &
 Guedes, Pedro. (2015). Design and Implementation of a Biologically Inspired Flying Robot - An
 EPS@ISEP 2014 Spring Project. 10.1145/2808580.2808612
+
+[HOME](Index.md)
