@@ -133,9 +133,7 @@
     <p style="font-size: min(4vw, 40px)">Assignments</p>
   </div>
 
-  <div class=section align="center">
-    <p style="font-size: min(4vw, 25px)">Develop a Research Question</p>
-  </div>
+  [Developing A Research Question](DevelopaResearchQuestion.md)
 
   <div class=galleryrow align="center" style="background-image: url('Images/plastic.jfif'); background-size: cover">
       <a href="DevelopaResearchQuestion" style="text-decoration:none;">
