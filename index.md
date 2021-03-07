@@ -133,7 +133,7 @@
     <p style="font-size: min(4vw, 40px)">Assignments</p>
   </div>
 
-  [Developing A Research Question](DevelopaResearchQuestion.md)
+  [](DevelopaResearchQuestion.md)
 
   <div class=galleryrow align="center" style="background-image: url('Images/plastic.jfif'); background-size: cover">
       <a href="DevelopaResearchQuestion" style="text-decoration:none;"> 
@@ -145,7 +145,7 @@
       </a>
   </div>
 
-  [Bio-mechanics Background and Initial Specifications](Biomech_back_and_init_Spec.md)
+  [](Biomech_back_and_init_Spec.md)
   
   <div class=galleryrow align="center" style="background-image: url('Images/wingdiagram.png'); background-size: contain">
       <a href="Biomech_back_and_init_Spec" style="text-decoration: none;">
@@ -199,9 +199,6 @@
   <div class=section align="center">
     <p style="font-size: min(4vw, 25px)">Bibliography</p>
   </div>
-  
-
-
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
     <div class="linkcolumn" align="center" style="width: 50%;">
       <a href="Bibliography" style="text-decoration: none;">
