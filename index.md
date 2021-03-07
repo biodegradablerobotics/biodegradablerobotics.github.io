@@ -125,7 +125,9 @@
   <div class=section align="center">
     <p style="font-size: min(4vw, 40px)">Introduction</p>
     <p style="margin: 0 0 0 5%;">Chris Breaux    cbreaux1@asu.edu</p>
+    <p><a href="https://christopherdbreaux.github.io/">All about Chris!</a></p>
     <p style="margin: 0 0 0 5%;">George Muhn     gmuhn@asu.edu</p>
+    <p><a href="https://geomuhn.github.io./">All about George!</a></p>
     <p style="margin: 0 0 0 5%;">Lien White      ljwhite8@asu.edu</p>
   </div>
   
