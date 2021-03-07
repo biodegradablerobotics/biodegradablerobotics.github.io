@@ -133,8 +133,6 @@
     <p style="font-size: min(4vw, 40px)">Assignments</p>
   </div>
 
-  [](DevelopaResearchQuestion.md)
-
   <div class=galleryrow align="center" style="background-image: url('Images/plastic.jfif'); background-size: cover">
       <a href="DevelopaResearchQuestion" style="text-decoration:none;"> 
         <div class=galleryoverlay>
@@ -144,8 +142,6 @@
         </div>
       </a>
   </div>
-
-  [](Duck_Bio_back_and_init_Specs.md)
   
   <div class=galleryrow align="center" style="background-image: url('Images/wingdiagram.png'); background-size: contain">
       <a href="Duck_Bio_back_and_init_Specs" style="text-decoration: none;">
