@@ -7,6 +7,7 @@ Chris Breaux, George Muhn, Lien White
 
 ##
 
+[HOME](index.md)
 
 ## Candidate Organism
 
@@ -61,17 +62,17 @@ Our candidate organism is the mallard duck _anas platyrhynchos_ [1].
 
 **Figures of Biological System**
 
-![](RackMultipart20210307-4-19c9t5c_html_3ddc97f68c63dcba.gif)
+![](Images/DuckBackFig1.gif)
 
 Figure 1. Cruising flight force diagrams of migratory birds [15]
 
-![](RackMultipart20210307-4-19c9t5c_html_22a15b2758b844e6.png)
+![](Images/DuckBackFig2.png)
 
 Figure 2. Force diagram layout of a bird [16]
 
 **Simple Engineering Representation**
 
-![](RackMultipart20210307-4-19c9t5c_html_8f81a92002119bae.png)
+![](Images/DuckBackFig3.png)
 
 Figure 3. 5-bar mechanism wing design in Solidworks. Two inputs and single output at the tip of the wing.
 
@@ -122,4 +123,4 @@ A 150:1 micrometal gear motor [13] and battery [14] that could fit our specifica
 
 [16] Caramin, Bénédicte &amp; Dunn, Iain &amp; Ney, Rauno &amp; Klawikowski, Yvonne &amp; Duarte, Abel &amp; Malheiro, Benedita &amp; Ribeiro, Cristina &amp; Ferreira, Fernando &amp; Silva, Manuel &amp; Ferreira, Paulo &amp; Guedes, Pedro. (2015). Design and Implementation of a Biologically Inspired Flying Robot - An EPS@ISEP 2014 Spring Project. 10.1145/2808580.2808612.
 
-8
+[HOME](index.md)
