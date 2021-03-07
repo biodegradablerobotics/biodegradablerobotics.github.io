@@ -1,11 +1,8 @@
-#
 # Duck Biomechanics Background and Initial Specifications
 
 Team 3: BIRB (Biodegradable Inspired Robotic Bird)
 
 Chris Breaux, George Muhn, Lien White
-
-##
 
 [HOME](index.md)
 
@@ -85,8 +82,6 @@ The average mallard duck is between 1000-1300 grams [2]. This is on the heavier 
 1. **Find a motor and battery that can supply the mechanical power needs obtained above.** _Consider that motor efficiencies may be as high as 95%, but if you can&#39;t find it listed, assume you find a more affordable motor at 50-70% efficiency. Compare the mechanical watts/kg for the necessary motor and battery vs the animal&#39;s mechanical power/mass above? Which one is more energy dense?_
 
 A 150:1 micrometal gear motor [13] and battery [14] that could fit our specifications for creating a bird like robot. This motor is small, light and produces a good amount of torque for our desired outcome. The battery is also small and light but would require a second battery in series to obtain the correct voltage for the motors. The batteries would also provide enough amp hours to power 1 motor for 2.6 hours at max current efficiency and power 3 motors for 55min at max efficiency. A drawback is the max efficiency of the motor is 33%. For power rating output power for the motor at max efficiency is 0.3 Watts. This would provide a watts/kg ratio of 31.78 watt/kg, for purely the motor. This is more than enough to power our wing.
-
-##
 
 
 ## **References**
