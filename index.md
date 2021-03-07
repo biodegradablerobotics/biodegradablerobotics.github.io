@@ -138,12 +138,13 @@
   </div>
 
   <div class=galleryrow align="center" style="background-image: url('Images/plastic.jfif'); background-size: cover">
-      [Develop a Research Question](Documents/Develop%20a%20Research%20Question.md)
+      <a href="https://github.com/biodegradablerobotics/biodegradablerobotics.github.io/blob/main/Documents/Develop%20a%20research%20Question.md" style="text-decoration:none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Develop a Research Question</b>
           </div>
         </div>
+        </a>
   </div>
 
   <div class=section align="center">
