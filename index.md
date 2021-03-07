@@ -157,12 +157,9 @@
       </a>
   </div>
 
-  <div class=section align="center">
-    <p style="font-size: min(4vw, 25px)">System Kinematics</p>
-  </div>
   
   <div class=galleryrow align="center" style="background-image: url('Images/kinematics.png'); background-size: contain">
-      <a href="systemkinematics.html" style="text-decoration: none;">
+      <a href="https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/System%20Kinematics.ipynb" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>System Kinematics</b>
