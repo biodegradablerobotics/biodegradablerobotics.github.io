@@ -1211,3 +1211,398 @@
 2021-03-14 21:35:11,224 - pynamics.output - INFO - done calculating outputs
 2021-03-14 21:35:24,765 - pynamics.output - INFO - calculating outputs
 2021-03-14 21:35:24,766 - pynamics.output - INFO - done calculating outputs
+2021-03-15 13:46:33,209 - pynamics.output - INFO - calculating outputs
+2021-03-15 13:46:33,212 - pynamics.output - INFO - done calculating outputs
+2021-03-15 13:46:46,043 - pynamics.system - INFO - getting dynamic equations
+2021-03-15 13:46:46,918 - pynamics.system - INFO - solving a = f/m and creating function
+2021-03-15 13:46:46,933 - pynamics.system - INFO - substituting constrained in Ma-f.
+2021-03-15 13:46:47,476 - pynamics.system - INFO - done solving a = f/m and creating function
+2021-03-15 13:46:47,478 - pynamics.system - INFO - calculating function for lambdas
+2021-03-15 13:46:55,190 - pynamics.integration - INFO - beginning integration
+2021-03-15 13:46:55,195 - pynamics.system - INFO - integration at time 0000.00
+2021-03-15 13:46:56,072 - pynamics.system - INFO - integration at time 0000.06
+2021-03-15 13:46:56,830 - pynamics.system - INFO - integration at time 0001.10
+2021-03-15 13:46:57,650 - pynamics.system - INFO - integration at time 0004.53
+2021-03-15 13:46:58,502 - pynamics.system - INFO - integration at time 0006.94
+2021-03-15 13:46:58,985 - pynamics.integration - INFO - finished integration
+2021-03-15 13:47:09,243 - pynamics.output - INFO - calculating outputs
+2021-03-15 13:47:09,261 - pynamics.output - INFO - done calculating outputs
+2021-03-15 13:47:14,848 - pynamics.output - INFO - calculating outputs
+2021-03-15 13:47:14,869 - pynamics.output - INFO - done calculating outputs
+2021-03-15 13:51:16,992 - pynamics.output - INFO - calculating outputs
+2021-03-15 13:51:16,996 - pynamics.output - INFO - done calculating outputs
+2021-03-15 13:51:17,529 - pynamics.system - INFO - getting dynamic equations
+2021-03-15 13:51:18,017 - pynamics.system - INFO - solving a = f/m and creating function
+2021-03-15 13:51:18,025 - pynamics.system - INFO - substituting constrained in Ma-f.
+2021-03-15 13:51:18,465 - pynamics.system - INFO - done solving a = f/m and creating function
+2021-03-15 13:51:18,467 - pynamics.system - INFO - calculating function for lambdas
+2021-03-15 13:51:18,535 - pynamics.integration - INFO - beginning integration
+2021-03-15 13:51:18,538 - pynamics.system - INFO - integration at time 0000.00
+2021-03-15 13:51:19,243 - pynamics.system - INFO - integration at time 0000.06
+2021-03-15 13:51:19,955 - pynamics.system - INFO - integration at time 0001.10
+2021-03-15 13:51:20,728 - pynamics.system - INFO - integration at time 0004.53
+2021-03-15 13:51:21,468 - pynamics.system - INFO - integration at time 0006.94
+2021-03-15 13:51:21,964 - pynamics.integration - INFO - finished integration
+2021-03-15 13:51:22,291 - pynamics.output - INFO - calculating outputs
+2021-03-15 13:51:22,308 - pynamics.output - INFO - done calculating outputs
+2021-03-15 13:51:22,536 - pynamics.output - INFO - calculating outputs
+2021-03-15 13:51:22,552 - pynamics.output - INFO - done calculating outputs
+2021-03-15 13:52:28,684 - pynamics.integration - INFO - beginning integration
+2021-03-15 13:52:28,832 - pynamics.system - INFO - integration at time 0000.00
+2021-03-15 13:52:29,186 - pynamics.system - INFO - integration at time 0000.30
+2021-03-15 13:52:29,536 - pynamics.system - INFO - integration at time 0002.04
+2021-03-15 13:52:29,872 - pynamics.system - INFO - integration at time 0005.65
+2021-03-15 13:52:30,219 - pynamics.system - INFO - integration at time 0008.01
+2021-03-15 13:52:30,861 - pynamics.system - INFO - integration at time 0013.13
+2021-03-15 13:52:31,653 - pynamics.system - INFO - integration at time 0013.63
+2021-03-15 13:52:32,550 - pynamics.system - INFO - integration at time 0013.67
+2021-03-15 13:52:33,292 - pynamics.system - INFO - integration at time 0013.72
+2021-03-15 13:52:34,119 - pynamics.system - INFO - integration at time 0013.78
+2021-03-15 13:52:34,884 - pynamics.system - INFO - integration at time 0013.82
+2021-03-15 13:52:35,674 - pynamics.system - INFO - integration at time 0013.91
+2021-03-15 13:52:36,653 - pynamics.system - INFO - integration at time 0013.95
+2021-03-15 13:52:37,399 - pynamics.system - INFO - integration at time 0013.97
+2021-03-15 13:52:38,269 - pynamics.system - INFO - integration at time 0014.01
+2021-03-15 13:52:39,033 - pynamics.system - INFO - integration at time 0014.04
+2021-03-15 13:52:39,796 - pynamics.system - INFO - integration at time 0014.08
+2021-03-15 13:52:40,710 - pynamics.system - INFO - integration at time 0014.13
+2021-03-15 13:52:41,600 - pynamics.system - INFO - integration at time 0014.15
+2021-03-15 13:52:42,338 - pynamics.system - INFO - integration at time 0014.19
+2021-03-15 13:52:43,176 - pynamics.system - INFO - integration at time 0014.22
+2021-03-15 13:52:43,937 - pynamics.system - INFO - integration at time 0014.25
+2021-03-15 13:52:44,675 - pynamics.system - INFO - integration at time 0014.30
+2021-03-15 13:52:45,415 - pynamics.system - INFO - integration at time 0014.32
+2021-03-15 13:52:46,336 - pynamics.system - INFO - integration at time 0014.34
+2021-03-15 13:52:47,186 - pynamics.system - INFO - integration at time 0014.37
+2021-03-15 13:52:47,977 - pynamics.system - INFO - integration at time 0014.39
+2021-03-15 13:52:48,817 - pynamics.system - INFO - integration at time 0014.41
+2021-03-15 13:52:49,686 - pynamics.system - INFO - integration at time 0014.44
+2021-03-15 13:52:50,608 - pynamics.system - INFO - integration at time 0014.46
+2021-03-15 13:52:51,597 - pynamics.system - INFO - integration at time 0014.48
+2021-03-15 13:52:52,324 - pynamics.system - INFO - integration at time 0014.50
+2021-03-15 13:52:53,045 - pynamics.system - INFO - integration at time 0014.53
+2021-03-15 13:52:53,770 - pynamics.system - INFO - integration at time 0014.55
+2021-03-15 13:52:54,502 - pynamics.system - INFO - integration at time 0014.58
+2021-03-15 13:52:55,224 - pynamics.system - INFO - integration at time 0014.60
+2021-03-15 13:52:56,016 - pynamics.system - INFO - integration at time 0014.62
+2021-03-15 13:52:56,758 - pynamics.system - INFO - integration at time 0014.65
+2021-03-15 13:52:57,482 - pynamics.system - INFO - integration at time 0014.67
+2021-03-15 13:52:58,208 - pynamics.system - INFO - integration at time 0014.69
+2021-03-15 13:52:58,956 - pynamics.system - INFO - integration at time 0014.71
+2021-03-15 13:52:59,674 - pynamics.system - INFO - integration at time 0014.73
+2021-03-15 13:53:00,396 - pynamics.system - INFO - integration at time 0014.75
+2021-03-15 13:53:01,131 - pynamics.system - INFO - integration at time 0014.77
+2021-03-15 13:53:01,852 - pynamics.system - INFO - integration at time 0014.80
+2021-03-15 13:53:02,605 - pynamics.system - INFO - integration at time 0014.82
+2021-03-15 13:53:03,325 - pynamics.system - INFO - integration at time 0014.84
+2021-03-15 13:53:04,052 - pynamics.system - INFO - integration at time 0014.85
+2021-03-15 13:53:04,795 - pynamics.system - INFO - integration at time 0014.87
+2021-03-15 13:53:05,532 - pynamics.system - INFO - integration at time 0014.90
+2021-03-15 13:53:06,362 - pynamics.system - INFO - integration at time 0014.92
+2021-03-15 13:53:07,086 - pynamics.system - INFO - integration at time 0014.93
+2021-03-15 13:53:07,831 - pynamics.system - INFO - integration at time 0014.95
+2021-03-15 13:53:08,558 - pynamics.system - INFO - integration at time 0014.97
+2021-03-15 13:53:09,338 - pynamics.system - INFO - integration at time 0014.99
+2021-03-15 13:53:10,062 - pynamics.system - INFO - integration at time 0015.01
+2021-03-15 13:53:10,839 - pynamics.system - INFO - integration at time 0015.03
+2021-03-15 13:53:11,585 - pynamics.system - INFO - integration at time 0015.05
+2021-03-15 13:53:12,308 - pynamics.system - INFO - integration at time 0015.07
+2021-03-15 13:53:13,047 - pynamics.system - INFO - integration at time 0015.08
+2021-03-15 13:53:13,779 - pynamics.system - INFO - integration at time 0015.11
+2021-03-15 13:53:14,509 - pynamics.system - INFO - integration at time 0015.12
+2021-03-15 13:53:15,304 - pynamics.system - INFO - integration at time 0015.15
+2021-03-15 13:53:16,113 - pynamics.system - INFO - integration at time 0015.16
+2021-03-15 13:53:16,848 - pynamics.system - INFO - integration at time 0015.18
+2021-03-15 13:53:17,682 - pynamics.system - INFO - integration at time 0015.20
+2021-03-15 13:53:18,436 - pynamics.system - INFO - integration at time 0015.22
+2021-03-15 13:53:19,192 - pynamics.system - INFO - integration at time 0015.23
+2021-03-15 13:53:19,954 - pynamics.system - INFO - integration at time 0015.26
+2021-03-15 13:53:20,703 - pynamics.system - INFO - integration at time 0015.27
+2021-03-15 13:53:21,682 - pynamics.system - INFO - integration at time 0015.29
+2021-03-15 13:53:22,529 - pynamics.system - INFO - integration at time 0015.31
+2021-03-15 13:53:23,362 - pynamics.system - INFO - integration at time 0015.32
+2021-03-15 13:53:24,080 - pynamics.system - INFO - integration at time 0015.34
+2021-03-15 13:53:24,818 - pynamics.system - INFO - integration at time 0015.35
+2021-03-15 13:53:25,548 - pynamics.system - INFO - integration at time 0015.37
+2021-03-15 13:53:26,328 - pynamics.system - INFO - integration at time 0015.39
+2021-03-15 13:53:27,043 - pynamics.system - INFO - integration at time 0015.41
+2021-03-15 13:53:27,779 - pynamics.system - INFO - integration at time 0015.43
+2021-03-15 13:53:28,502 - pynamics.system - INFO - integration at time 0015.45
+2021-03-15 13:53:29,237 - pynamics.system - INFO - integration at time 0015.47
+2021-03-15 13:53:29,977 - pynamics.system - INFO - integration at time 0015.49
+2021-03-15 13:53:30,743 - pynamics.system - INFO - integration at time 0015.50
+2021-03-15 13:53:31,493 - pynamics.system - INFO - integration at time 0015.52
+2021-03-15 13:53:32,215 - pynamics.system - INFO - integration at time 0015.54
+2021-03-15 13:53:32,936 - pynamics.system - INFO - integration at time 0015.56
+2021-03-15 13:53:33,659 - pynamics.system - INFO - integration at time 0015.58
+2021-03-15 13:53:34,394 - pynamics.system - INFO - integration at time 0015.60
+2021-03-15 13:53:35,111 - pynamics.system - INFO - integration at time 0015.61
+2021-03-15 13:53:35,898 - pynamics.system - INFO - integration at time 0015.63
+2021-03-15 13:53:36,670 - pynamics.system - INFO - integration at time 0015.65
+2021-03-15 13:53:37,392 - pynamics.system - INFO - integration at time 0015.66
+2021-03-15 13:53:38,147 - pynamics.system - INFO - integration at time 0015.68
+2021-03-15 13:53:38,872 - pynamics.system - INFO - integration at time 0015.70
+2021-03-15 13:53:39,605 - pynamics.system - INFO - integration at time 0015.72
+2021-03-15 13:53:40,318 - pynamics.system - INFO - integration at time 0015.74
+2021-03-15 13:53:41,073 - pynamics.system - INFO - integration at time 0015.76
+2021-03-15 13:53:41,797 - pynamics.system - INFO - integration at time 0015.77
+2021-03-15 13:53:42,512 - pynamics.system - INFO - integration at time 0015.79
+2021-03-15 13:53:43,267 - pynamics.system - INFO - integration at time 0015.81
+2021-03-15 13:53:43,983 - pynamics.system - INFO - integration at time 0015.83
+2021-03-15 13:53:44,698 - pynamics.system - INFO - integration at time 0015.84
+2021-03-15 13:53:45,411 - pynamics.system - INFO - integration at time 0015.86
+2021-03-15 13:53:46,157 - pynamics.system - INFO - integration at time 0015.88
+2021-03-15 13:53:46,874 - pynamics.system - INFO - integration at time 0015.90
+2021-03-15 13:53:47,598 - pynamics.system - INFO - integration at time 0015.92
+2021-03-15 13:53:48,310 - pynamics.system - INFO - integration at time 0015.93
+2021-03-15 13:53:49,034 - pynamics.system - INFO - integration at time 0015.95
+2021-03-15 13:53:49,759 - pynamics.system - INFO - integration at time 0015.97
+2021-03-15 13:53:50,484 - pynamics.system - INFO - integration at time 0015.99
+2021-03-15 13:53:51,277 - pynamics.system - INFO - integration at time 0016.00
+2021-03-15 13:53:52,033 - pynamics.system - INFO - integration at time 0016.02
+2021-03-15 13:53:52,921 - pynamics.system - INFO - integration at time 0016.04
+2021-03-15 13:53:53,740 - pynamics.system - INFO - integration at time 0016.06
+2021-03-15 13:53:54,515 - pynamics.system - INFO - integration at time 0016.07
+2021-03-15 13:53:55,269 - pynamics.system - INFO - integration at time 0016.09
+2021-03-15 13:53:56,136 - pynamics.system - INFO - integration at time 0016.10
+2021-03-15 13:53:56,924 - pynamics.system - INFO - integration at time 0016.12
+2021-03-15 13:53:57,660 - pynamics.system - INFO - integration at time 0016.14
+2021-03-15 13:53:58,396 - pynamics.system - INFO - integration at time 0016.16
+2021-03-15 13:53:59,164 - pynamics.system - INFO - integration at time 0016.17
+2021-03-15 13:53:59,884 - pynamics.system - INFO - integration at time 0016.19
+2021-03-15 13:54:00,638 - pynamics.system - INFO - integration at time 0016.21
+2021-03-15 13:54:01,445 - pynamics.system - INFO - integration at time 0016.23
+2021-03-15 13:54:02,158 - pynamics.system - INFO - integration at time 0016.24
+2021-03-15 13:54:02,935 - pynamics.system - INFO - integration at time 0016.26
+2021-03-15 13:54:03,763 - pynamics.system - INFO - integration at time 0016.28
+2021-03-15 13:54:04,563 - pynamics.system - INFO - integration at time 0016.30
+2021-03-15 13:54:05,328 - pynamics.system - INFO - integration at time 0016.32
+2021-03-15 13:54:06,066 - pynamics.system - INFO - integration at time 0016.34
+2021-03-15 13:54:06,826 - pynamics.system - INFO - integration at time 0016.35
+2021-03-15 13:54:07,676 - pynamics.system - INFO - integration at time 0016.37
+2021-03-15 13:54:08,442 - pynamics.system - INFO - integration at time 0016.39
+2021-03-15 13:54:09,696 - pynamics.system - INFO - integration at time 0016.41
+2021-03-15 13:54:11,321 - pynamics.system - INFO - integration at time 0016.43
+2021-03-15 13:54:12,354 - pynamics.system - INFO - integration at time 0016.45
+2021-03-15 13:54:13,172 - pynamics.system - INFO - integration at time 0016.46
+2021-03-15 13:54:14,063 - pynamics.system - INFO - integration at time 0016.48
+2021-03-15 13:54:14,914 - pynamics.system - INFO - integration at time 0016.50
+2021-03-15 13:54:15,736 - pynamics.system - INFO - integration at time 0016.52
+2021-03-15 13:54:16,525 - pynamics.system - INFO - integration at time 0016.54
+2021-03-15 13:54:17,243 - pynamics.system - INFO - integration at time 0016.55
+2021-03-15 13:54:17,976 - pynamics.system - INFO - integration at time 0016.57
+2021-03-15 13:54:18,733 - pynamics.system - INFO - integration at time 0016.59
+2021-03-15 13:54:19,493 - pynamics.system - INFO - integration at time 0016.61
+2021-03-15 13:54:20,229 - pynamics.system - INFO - integration at time 0016.62
+2021-03-15 13:54:21,022 - pynamics.system - INFO - integration at time 0016.64
+2021-03-15 13:54:21,790 - pynamics.system - INFO - integration at time 0016.66
+2021-03-15 13:54:22,517 - pynamics.system - INFO - integration at time 0016.68
+2021-03-15 13:54:23,243 - pynamics.system - INFO - integration at time 0016.70
+2021-03-15 13:54:23,971 - pynamics.system - INFO - integration at time 0016.71
+2021-03-15 13:54:24,696 - pynamics.system - INFO - integration at time 0016.73
+2021-03-15 13:54:25,448 - pynamics.system - INFO - integration at time 0016.75
+2021-03-15 13:54:26,440 - pynamics.system - INFO - integration at time 0016.77
+2021-03-15 13:54:27,168 - pynamics.system - INFO - integration at time 0016.79
+2021-03-15 13:54:27,931 - pynamics.system - INFO - integration at time 0016.81
+2021-03-15 13:54:28,682 - pynamics.system - INFO - integration at time 0016.82
+2021-03-15 13:54:29,444 - pynamics.system - INFO - integration at time 0016.84
+2021-03-15 13:54:30,210 - pynamics.system - INFO - integration at time 0016.86
+2021-03-15 13:54:31,103 - pynamics.system - INFO - integration at time 0016.88
+2021-03-15 13:54:31,878 - pynamics.system - INFO - integration at time 0016.90
+2021-03-15 13:54:32,631 - pynamics.system - INFO - integration at time 0016.91
+2021-03-15 13:54:33,365 - pynamics.system - INFO - integration at time 0016.93
+2021-03-15 13:54:34,085 - pynamics.system - INFO - integration at time 0016.95
+2021-03-15 13:54:34,832 - pynamics.system - INFO - integration at time 0016.96
+2021-03-15 13:54:35,576 - pynamics.system - INFO - integration at time 0016.98
+2021-03-15 13:54:36,332 - pynamics.system - INFO - integration at time 0017.00
+2021-03-15 13:54:37,064 - pynamics.system - INFO - integration at time 0017.02
+2021-03-15 13:54:37,793 - pynamics.system - INFO - integration at time 0017.03
+2021-03-15 13:54:38,511 - pynamics.system - INFO - integration at time 0017.05
+2021-03-15 13:54:39,255 - pynamics.system - INFO - integration at time 0017.07
+2021-03-15 13:54:40,095 - pynamics.system - INFO - integration at time 0017.09
+2021-03-15 13:54:41,336 - pynamics.system - INFO - integration at time 0017.10
+2021-03-15 13:54:42,329 - pynamics.system - INFO - integration at time 0017.12
+2021-03-15 13:54:43,707 - pynamics.system - INFO - integration at time 0017.14
+2021-03-15 13:54:44,619 - pynamics.system - INFO - integration at time 0017.15
+2021-03-15 13:54:45,406 - pynamics.system - INFO - integration at time 0017.17
+2021-03-15 13:54:46,486 - pynamics.system - INFO - integration at time 0017.19
+2021-03-15 13:54:47,433 - pynamics.system - INFO - integration at time 0017.21
+2021-03-15 13:54:48,591 - pynamics.system - INFO - integration at time 0017.22
+2021-03-15 13:54:49,517 - pynamics.system - INFO - integration at time 0017.24
+2021-03-15 13:54:50,545 - pynamics.system - INFO - integration at time 0017.26
+2021-03-15 13:54:51,808 - pynamics.system - INFO - integration at time 0017.27
+2021-03-15 13:54:52,599 - pynamics.system - INFO - integration at time 0017.29
+2021-03-15 13:54:53,682 - pynamics.system - INFO - integration at time 0017.31
+2021-03-15 13:54:54,924 - pynamics.system - INFO - integration at time 0017.32
+2021-03-15 13:54:56,366 - pynamics.system - INFO - integration at time 0017.34
+2021-03-15 13:54:57,316 - pynamics.system - INFO - integration at time 0017.36
+2021-03-15 13:54:58,345 - pynamics.system - INFO - integration at time 0017.38
+2021-03-15 13:54:59,402 - pynamics.system - INFO - integration at time 0017.39
+2021-03-15 13:55:00,455 - pynamics.system - INFO - integration at time 0017.41
+2021-03-15 13:55:01,450 - pynamics.system - INFO - integration at time 0017.43
+2021-03-15 13:55:02,310 - pynamics.system - INFO - integration at time 0017.45
+2021-03-15 13:55:03,093 - pynamics.system - INFO - integration at time 0017.47
+2021-03-15 13:55:03,848 - pynamics.system - INFO - integration at time 0017.48
+2021-03-15 13:55:04,597 - pynamics.system - INFO - integration at time 0017.50
+2021-03-15 13:55:05,332 - pynamics.system - INFO - integration at time 0017.52
+2021-03-15 13:55:06,236 - pynamics.system - INFO - integration at time 0017.53
+2021-03-15 13:55:06,958 - pynamics.system - INFO - integration at time 0017.55
+2021-03-15 13:55:07,705 - pynamics.system - INFO - integration at time 0017.57
+2021-03-15 13:55:08,420 - pynamics.system - INFO - integration at time 0017.59
+2021-03-15 13:55:09,155 - pynamics.system - INFO - integration at time 0017.60
+2021-03-15 13:55:09,873 - pynamics.system - INFO - integration at time 0017.62
+2021-03-15 13:55:10,624 - pynamics.system - INFO - integration at time 0017.63
+2021-03-15 13:55:11,418 - pynamics.system - INFO - integration at time 0017.65
+2021-03-15 13:55:12,133 - pynamics.system - INFO - integration at time 0017.67
+2021-03-15 13:55:12,885 - pynamics.system - INFO - integration at time 0017.69
+2021-03-15 13:55:13,604 - pynamics.system - INFO - integration at time 0017.71
+2021-03-15 13:55:14,343 - pynamics.system - INFO - integration at time 0017.72
+2021-03-15 13:55:15,116 - pynamics.system - INFO - integration at time 0017.74
+2021-03-15 13:55:15,986 - pynamics.system - INFO - integration at time 0017.76
+2021-03-15 13:55:16,773 - pynamics.system - INFO - integration at time 0017.77
+2021-03-15 13:55:17,538 - pynamics.system - INFO - integration at time 0017.79
+2021-03-15 13:55:18,377 - pynamics.system - INFO - integration at time 0017.81
+2021-03-15 13:55:19,109 - pynamics.system - INFO - integration at time 0017.83
+2021-03-15 13:55:19,859 - pynamics.system - INFO - integration at time 0017.84
+2021-03-15 13:55:20,672 - pynamics.system - INFO - integration at time 0017.86
+2021-03-15 13:55:21,464 - pynamics.system - INFO - integration at time 0017.88
+2021-03-15 13:55:22,192 - pynamics.system - INFO - integration at time 0017.90
+2021-03-15 13:55:22,945 - pynamics.system - INFO - integration at time 0017.92
+2021-03-15 13:55:23,689 - pynamics.system - INFO - integration at time 0017.94
+2021-03-15 13:55:24,498 - pynamics.system - INFO - integration at time 0017.96
+2021-03-15 13:55:25,295 - pynamics.system - INFO - integration at time 0017.98
+2021-03-15 13:55:26,062 - pynamics.system - INFO - integration at time 0017.99
+2021-03-15 13:55:26,788 - pynamics.system - INFO - integration at time 0018.01
+2021-03-15 13:55:27,517 - pynamics.system - INFO - integration at time 0018.03
+2021-03-15 13:55:28,257 - pynamics.system - INFO - integration at time 0018.05
+2021-03-15 13:55:29,006 - pynamics.system - INFO - integration at time 0018.06
+2021-03-15 13:55:29,754 - pynamics.system - INFO - integration at time 0018.08
+2021-03-15 13:55:30,480 - pynamics.system - INFO - integration at time 0018.10
+2021-03-15 13:55:31,349 - pynamics.system - INFO - integration at time 0018.12
+2021-03-15 13:55:32,143 - pynamics.system - INFO - integration at time 0018.14
+2021-03-15 13:55:32,946 - pynamics.system - INFO - integration at time 0018.15
+2021-03-15 13:55:33,777 - pynamics.system - INFO - integration at time 0018.17
+2021-03-15 13:55:34,687 - pynamics.system - INFO - integration at time 0018.19
+2021-03-15 13:55:35,450 - pynamics.system - INFO - integration at time 0018.20
+2021-03-15 13:55:36,331 - pynamics.system - INFO - integration at time 0018.22
+2021-03-15 13:55:37,066 - pynamics.system - INFO - integration at time 0018.23
+2021-03-15 13:55:37,822 - pynamics.system - INFO - integration at time 0018.24
+2021-03-15 13:55:38,643 - pynamics.system - INFO - integration at time 0018.26
+2021-03-15 13:55:39,413 - pynamics.system - INFO - integration at time 0018.28
+2021-03-15 13:55:40,331 - pynamics.system - INFO - integration at time 0018.30
+2021-03-15 13:55:41,099 - pynamics.system - INFO - integration at time 0018.32
+2021-03-15 13:55:41,846 - pynamics.system - INFO - integration at time 0018.34
+2021-03-15 13:55:42,589 - pynamics.system - INFO - integration at time 0018.35
+2021-03-15 13:55:43,317 - pynamics.system - INFO - integration at time 0018.37
+2021-03-15 13:55:44,038 - pynamics.system - INFO - integration at time 0018.39
+2021-03-15 13:55:44,757 - pynamics.system - INFO - integration at time 0018.40
+2021-03-15 13:55:45,511 - pynamics.system - INFO - integration at time 0018.42
+2021-03-15 13:55:46,255 - pynamics.system - INFO - integration at time 0018.44
+2021-03-15 13:55:46,972 - pynamics.system - INFO - integration at time 0018.45
+2021-03-15 13:55:47,707 - pynamics.system - INFO - integration at time 0018.47
+2021-03-15 13:55:48,432 - pynamics.system - INFO - integration at time 0018.49
+2021-03-15 13:55:49,182 - pynamics.system - INFO - integration at time 0018.51
+2021-03-15 13:55:49,898 - pynamics.system - INFO - integration at time 0018.52
+2021-03-15 13:55:50,649 - pynamics.system - INFO - integration at time 0018.54
+2021-03-15 13:55:51,441 - pynamics.system - INFO - integration at time 0018.56
+2021-03-15 13:55:52,162 - pynamics.system - INFO - integration at time 0018.58
+2021-03-15 13:55:52,881 - pynamics.system - INFO - integration at time 0018.60
+2021-03-15 13:55:53,603 - pynamics.system - INFO - integration at time 0018.61
+2021-03-15 13:55:54,337 - pynamics.system - INFO - integration at time 0018.63
+2021-03-15 13:55:55,060 - pynamics.system - INFO - integration at time 0018.65
+2021-03-15 13:55:55,828 - pynamics.system - INFO - integration at time 0018.66
+2021-03-15 13:55:56,617 - pynamics.system - INFO - integration at time 0018.68
+2021-03-15 13:55:57,347 - pynamics.system - INFO - integration at time 0018.69
+2021-03-15 13:55:58,072 - pynamics.system - INFO - integration at time 0018.71
+2021-03-15 13:55:58,840 - pynamics.system - INFO - integration at time 0018.72
+2021-03-15 13:55:59,562 - pynamics.system - INFO - integration at time 0018.74
+2021-03-15 13:56:00,280 - pynamics.system - INFO - integration at time 0018.75
+2021-03-15 13:56:01,034 - pynamics.system - INFO - integration at time 0018.77
+2021-03-15 13:56:01,825 - pynamics.system - INFO - integration at time 0018.78
+2021-03-15 13:56:02,553 - pynamics.system - INFO - integration at time 0018.80
+2021-03-15 13:56:03,282 - pynamics.system - INFO - integration at time 0018.82
+2021-03-15 13:56:04,092 - pynamics.system - INFO - integration at time 0018.85
+2021-03-15 13:56:04,899 - pynamics.system - INFO - integration at time 0018.86
+2021-03-15 13:56:05,694 - pynamics.system - INFO - integration at time 0018.88
+2021-03-15 13:56:06,554 - pynamics.system - INFO - integration at time 0018.90
+2021-03-15 13:56:07,337 - pynamics.system - INFO - integration at time 0018.91
+2021-03-15 13:56:08,141 - pynamics.system - INFO - integration at time 0018.93
+2021-03-15 13:56:08,863 - pynamics.system - INFO - integration at time 0018.95
+2021-03-15 13:56:09,597 - pynamics.system - INFO - integration at time 0018.96
+2021-03-15 13:56:10,324 - pynamics.system - INFO - integration at time 0018.98
+2021-03-15 13:56:11,079 - pynamics.system - INFO - integration at time 0019.00
+2021-03-15 13:56:11,827 - pynamics.system - INFO - integration at time 0019.01
+2021-03-15 13:56:12,580 - pynamics.system - INFO - integration at time 0019.03
+2021-03-15 13:56:13,359 - pynamics.system - INFO - integration at time 0019.05
+2021-03-15 13:56:14,110 - pynamics.system - INFO - integration at time 0019.06
+2021-03-15 13:56:14,859 - pynamics.system - INFO - integration at time 0019.08
+2021-03-15 13:56:15,624 - pynamics.system - INFO - integration at time 0019.10
+2021-03-15 13:56:16,483 - pynamics.system - INFO - integration at time 0019.12
+2021-03-15 13:56:17,207 - pynamics.system - INFO - integration at time 0019.13
+2021-03-15 13:56:17,986 - pynamics.system - INFO - integration at time 0019.15
+2021-03-15 13:56:18,733 - pynamics.system - INFO - integration at time 0019.17
+2021-03-15 13:56:19,633 - pynamics.system - INFO - integration at time 0019.19
+2021-03-15 13:56:20,466 - pynamics.system - INFO - integration at time 0019.21
+2021-03-15 13:56:21,549 - pynamics.system - INFO - integration at time 0019.22
+2021-03-15 13:56:22,297 - pynamics.system - INFO - integration at time 0019.24
+2021-03-15 13:56:23,057 - pynamics.system - INFO - integration at time 0019.26
+2021-03-15 13:56:23,884 - pynamics.system - INFO - integration at time 0019.27
+2021-03-15 13:56:24,670 - pynamics.system - INFO - integration at time 0019.29
+2021-03-15 13:56:25,473 - pynamics.system - INFO - integration at time 0019.31
+2021-03-15 13:56:26,339 - pynamics.system - INFO - integration at time 0019.33
+2021-03-15 13:56:27,054 - pynamics.system - INFO - integration at time 0019.34
+2021-03-15 13:56:27,804 - pynamics.system - INFO - integration at time 0019.37
+2021-03-15 13:56:28,539 - pynamics.system - INFO - integration at time 0019.39
+2021-03-15 13:56:29,255 - pynamics.system - INFO - integration at time 0019.40
+2021-03-15 13:56:29,976 - pynamics.system - INFO - integration at time 0019.42
+2021-03-15 13:56:30,714 - pynamics.system - INFO - integration at time 0019.44
+2021-03-15 13:56:31,452 - pynamics.system - INFO - integration at time 0019.46
+2021-03-15 13:56:32,163 - pynamics.system - INFO - integration at time 0019.48
+2021-03-15 13:56:32,888 - pynamics.system - INFO - integration at time 0019.50
+2021-03-15 13:56:33,630 - pynamics.system - INFO - integration at time 0019.52
+2021-03-15 13:56:34,372 - pynamics.system - INFO - integration at time 0019.53
+2021-03-15 13:56:35,090 - pynamics.system - INFO - integration at time 0019.55
+2021-03-15 13:56:35,837 - pynamics.system - INFO - integration at time 0019.57
+2021-03-15 13:56:36,580 - pynamics.system - INFO - integration at time 0019.59
+2021-03-15 13:56:37,320 - pynamics.system - INFO - integration at time 0019.61
+2021-03-15 13:56:38,034 - pynamics.system - INFO - integration at time 0019.62
+2021-03-15 13:56:38,757 - pynamics.system - INFO - integration at time 0019.64
+2021-03-15 13:56:39,551 - pynamics.system - INFO - integration at time 0019.66
+2021-03-15 13:56:40,340 - pynamics.system - INFO - integration at time 0019.68
+2021-03-15 13:56:41,235 - pynamics.system - INFO - integration at time 0019.69
+2021-03-15 13:56:42,040 - pynamics.system - INFO - integration at time 0019.71
+2021-03-15 13:56:42,999 - pynamics.system - INFO - integration at time 0019.72
+2021-03-15 13:56:43,770 - pynamics.system - INFO - integration at time 0019.74
+2021-03-15 13:56:44,504 - pynamics.system - INFO - integration at time 0019.76
+2021-03-15 13:56:45,306 - pynamics.system - INFO - integration at time 0019.78
+2021-03-15 13:56:46,166 - pynamics.system - INFO - integration at time 0019.79
+2021-03-15 13:56:46,893 - pynamics.system - INFO - integration at time 0019.81
+2021-03-15 13:56:47,632 - pynamics.system - INFO - integration at time 0019.83
+2021-03-15 13:56:48,419 - pynamics.system - INFO - integration at time 0019.84
+2021-03-15 13:56:49,204 - pynamics.system - INFO - integration at time 0019.86
+2021-03-15 13:56:49,935 - pynamics.system - INFO - integration at time 0019.88
+2021-03-15 13:56:50,686 - pynamics.system - INFO - integration at time 0019.90
+2021-03-15 13:56:51,563 - pynamics.system - INFO - integration at time 0019.91
+2021-03-15 13:56:52,284 - pynamics.system - INFO - integration at time 0019.93
+2021-03-15 13:56:53,003 - pynamics.system - INFO - integration at time 0019.95
+2021-03-15 13:56:53,849 - pynamics.system - INFO - integration at time 0019.97
+2021-03-15 13:56:53,866 - pynamics.integration - INFO - finished integration
+2021-03-15 13:56:54,238 - pynamics.output - INFO - calculating outputs
+2021-03-15 13:56:54,270 - pynamics.output - INFO - done calculating outputs
+2021-03-15 13:56:54,512 - pynamics.output - INFO - calculating outputs
+2021-03-15 13:56:54,544 - pynamics.output - INFO - done calculating outputs
+2021-03-15 14:05:10,161 - pynamics.output - INFO - calculating outputs
+2021-03-15 14:05:10,164 - pynamics.output - INFO - done calculating outputs
+2021-03-15 14:05:10,723 - pynamics.system - INFO - getting dynamic equations
+2021-03-15 14:05:11,237 - pynamics.system - INFO - solving a = f/m and creating function
+2021-03-15 14:05:11,247 - pynamics.system - INFO - substituting constrained in Ma-f.
+2021-03-15 14:05:11,693 - pynamics.system - INFO - done solving a = f/m and creating function
+2021-03-15 14:05:11,695 - pynamics.system - INFO - calculating function for lambdas
+2021-03-15 14:05:11,762 - pynamics.integration - INFO - beginning integration
+2021-03-15 14:05:11,764 - pynamics.system - INFO - integration at time 0000.00
+2021-03-15 14:05:12,501 - pynamics.system - INFO - integration at time 0000.13
+2021-03-15 14:05:13,111 - pynamics.integration - INFO - finished integration
+2021-03-15 14:05:13,468 - pynamics.output - INFO - calculating outputs
+2021-03-15 14:05:13,500 - pynamics.output - INFO - done calculating outputs
+2021-03-15 14:05:13,756 - pynamics.output - INFO - calculating outputs
+2021-03-15 14:05:13,795 - pynamics.output - INFO - done calculating outputs
