@@ -209,7 +209,7 @@
     <p style="font-size: min(4vw, 25px)">Material Collection and Prototyping</p>
   </div>
 
-  <div class=galleryrow align="center" style="background-image: url('Images/RenderedWing.png'); background-size: contain">
+  <div class=galleryrow align="center" style="background-image: url('Images/IMG_8048.jpg'); background-size: contain">
       <a href="Mat_Col_Ini_Prot" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
