@@ -206,6 +206,20 @@
   </div>
 
   <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Material Collection and Prototyping</p>
+  </div>
+
+  <div class=galleryrow align="center" style="background-image: url('Images/RenderedWing.png'); background-size: contain">
+      <a href="Mat_Col_Ini_Prot" style="text-decoration: none;">
+        <div class=galleryoverlay>
+          <div class=gallerytext>
+            <b>Material Collection and Prototyping</b>
+          </div>
+        </div>
+      </a>
+  </div>
+
+  <div class=section align="center">
     <p style="font-size: min(4vw, 25px)">System Dynamics II</p>
   </div>
 
