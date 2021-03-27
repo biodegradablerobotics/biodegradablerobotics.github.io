@@ -220,6 +220,20 @@
   </div>
 
   <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Presentation II</p>
+  </div>
+
+  <div class=galleryrow align="center" style="background-image: url('Images/presentation1.jpg'); background-size: cover">
+      <a href="presentation2.html" style="text-decoration: none;">
+        <div class=galleryoverlay>
+          <div class=gallerytext>
+            <b>Presentation II</b>
+          </div>
+        </div>
+      </a>
+  </div>
+
+  <div class=section align="center">
     <p style="font-size: min(4vw, 25px)">Bibliography</p>
   </div>
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
