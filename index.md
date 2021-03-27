@@ -209,7 +209,7 @@
     <p style="font-size: min(4vw, 25px)">System Dynamics II</p>
   </div>
 
-  <div class=galleryrow align="center" style="background-image: url('Images/dynamics.png'); background-size: contain">
+  <div class=galleryrow align="center" style="background-image: url('Images/RenderedWing.png'); background-size: contain">
       <a href="Dynamics%20II" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
