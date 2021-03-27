@@ -76,7 +76,7 @@ _Figure 2. Tracker video_
 
 The Stiffness and damping Analysis failed to produce results as the optimization function took 24+ hours to run without completing or identifying a valid solution. To accommodate the dynamic python model was evaluated visually and determined b and k values that resulted in the closest simulation to the video taken.
 
-![](RackMultipart20210327-4-t8eqsa_html_3f52170f419944de.jpg)
+![](Images/Tracker/trackerplots.jpg)
 
 _Figure 3. Tracker data_
 
