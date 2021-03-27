@@ -6,8 +6,7 @@ By George Muhn
 
 After conducting research and completing the system kinematics assignment, the team was able to put together a list of key specifications that we would look for in identifying the material as well as the construction process. The team identified three potential materials that could be used for creating a first prototype: Cardstock, Cardboard, Balsa Wood. The materials were then compared using _table 1_ to rank each material with the respective specification. General specifications were used and a rating of low, medium and high were used as rankings.
 
-|
- | Light weight | Stiffness | Easily create joints | Cheap | Biodegradable/recyclable | Strength |
+| Material | Light weight | Stiffness | Easily create joints | Cheap | Biodegradable/ recyclable | Strength |
 | --- | --- | --- | --- | --- | --- | --- |
 | Cardstock | High | Low | High | High | High | Low |
 | Cardboard | High | medium | High | High | High | medium |
@@ -43,23 +42,23 @@ Bottom part dimensions: 40 cm x 10 cm.
 
 Attached at base: 4cm apart
 
-![](RackMultipart20210327-4-1hiqyat_html_44fba9e77f64065d.gif)
+![](Images/IMG_8038.jpg)
 
 Step 2: Cut out to exact dimensions specified above.
 
-![](RackMultipart20210327-4-1hiqyat_html_bb9670152608dad9.gif)
+![](Images/IMG_8051.jpg)
 
 Step 3: Using tape, join the tip of the wing together.
 
-![](RackMultipart20210327-4-1hiqyat_html_1f162e16f7db2db2.jpg) ![](RackMultipart20210327-4-1hiqyat_html_3c4dd5b98b7a15e5.gif)
+![](Images/IMG_8040.jpg) ![](Images/IMG_8053.jpg)
 
 Step 3: Created a stand to which the wing could be mounted. Also added an angle limiting piece on the inside of the bottom wing. This is to prevent the wing to bend back when flapping down.
 
-![](RackMultipart20210327-4-1hiqyat_html_e8f8f97a3f9b542.jpg) ![](RackMultipart20210327-4-1hiqyat_html_485ac1f05a80a511.jpg)
+![](Images/IMG_8048.jpg) ![](Images/IMG_8045.jpg)
 
 Step 4: attempting different motions and positions with it
 
-![](RackMultipart20210327-4-1hiqyat_html_610ff61ed44d0fa1.jpg) ![](RackMultipart20210327-4-1hiqyat_html_6c9a51ec473bfcf4.jpg) ![](RackMultipart20210327-4-1hiqyat_html_5182ad536a85ba0f.jpg)
+![](Images/IMG_8044.jpg) ![](Images/IMG_8049.jpg) ![](Images/IMG_8050.jpg)
 
 ## Evaluation 1:
 
@@ -75,7 +74,7 @@ With these changes a new iteration was designed and prototype built using the sa
 
 ## Iteration 2
 
-## ![](RackMultipart20210327-4-1hiqyat_html_67162c22a8dba2b.jpg) ![](RackMultipart20210327-4-1hiqyat_html_76de6bb4da34c58b.jpg) ![](RackMultipart20210327-4-1hiqyat_html_29299e9fe9d6fac5.jpg) ![](RackMultipart20210327-4-1hiqyat_html_172bcfa8f007c80d.jpg) ![](RackMultipart20210327-4-1hiqyat_html_270a7de27ec3e381.jpg)
+## ![](Images/IMG_8057.jpg) ![](Images/IMG_8058.jpg) ![](Images/IMG_8056.jpg) ![](Images/IMG_8054.jpg) ![](Images/IMG_8055.jpg)
 
 
 ## Evaluation 2:
