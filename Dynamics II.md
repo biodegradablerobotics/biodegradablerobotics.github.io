@@ -16,7 +16,7 @@ Using Solidworks, the team created the following model of a wing, built with a s
 
 _Figure 1. Wing force diagram at the end effector, or the tip._
 
-  1. **Weight of Links**
+1. **Weight of Links**
 
 Density of Cardboard (d) = 0.501kg/(1.27\*0.6604\*0.004)m = 149 kg/m³
 
