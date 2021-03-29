@@ -61,7 +61,7 @@ The angle limiter attachment moves link B&#39;s center of mass from the midpoint
 | --- | --- | --- | --- |
 | B | 0.06735294 | 0.00247059 | 0.07500000 |
 
-![](RackMultipart20210329-4-1qqmhqb_html_fe55e0afbd0ebb26.png)
+![](Images/RenderedWing.png)
 
 Lastly, I had to update the system kinematics and dynamics code. In the system kinematics code, I updated the position of the wing in the first plot to match the geometry from solidworks. Next, I measured the motor angles of the wing&#39;s fully extended, horizontal position in solidworks and updated the initial values of the optimization problem with those angles. After rerunning the code, I was able to get our new motor torque requirement of 2.22 Nm. In the system dynamics code, I updated the link lengths, link masses, link inertias, and link B&#39;s center of mass location. I reran the code to regenerate plots and animations for b=0 and b=1 cases. The updated force, velocity, and power results and the dynamic simulation are shown in the table and figure below.
 
