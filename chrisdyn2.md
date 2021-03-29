@@ -29,7 +29,7 @@ I increased the relative length of link C by 10% so that both top links have the
 | Link E | 0.045 |
 | Width | 0.15 |
 
-![](RackMultipart20210329-4-1qqmhqb_html_34edba52dc948fca.png)
+![](Images/2D.PNG)
 
 The next task was to add an angle limiting device such that qB \&lt;= 0deg. This would prevent the bottom arm of the wing from inverting into a convex configuration. We want to keep the wing concave or flat. I designed an attachment to link B that makes contact with link A when the two links are parallel. The initial dimensions of this attachment are shown in the table and figure below. If, during our testing, the device fails, we will adjust its dimensions and update the model and code accordingly.
 
