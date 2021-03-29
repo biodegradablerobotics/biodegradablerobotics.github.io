@@ -15,7 +15,7 @@ Wing Assembly, A, B, C, D, E
 
 My tasks this week were to adjust the geometry of the system to increase wing retraction and reduce motor torque requirements and to update our SolidWorks models, and kinematics and dynamics code to reflect the changes in geometry and its effect on the inertial properties. I completed an additional task to set up the cantilever beam analysis for next week when we extract the rest of the parameters from our system. My discussions reference the figure below.
 
-![](RackMultipart20210329-4-1qqmhqb_html_ad12007796a5051c.png)
+![](Images/kinematics.png)
 
 My procedure for adjusting the geometry was to adjust the link lengths in a 2D representation of the wing in solidworks, flap the wing around to analyze the range of motion, then run the new link lengths through the system kinematics code to see the motor torque requirement.
 
