@@ -14,7 +14,7 @@ Please see: [Jupyter Notebook](https://nbviewer.jupyter.org/url/biodegradablerob
 
 Using Solidworks, the team created the following model of a wing, built with a small tab on the bottom link as an angle-limiting constraint to our mechanism (Figure 1.).
 
-![](Images/Picture1.PNG)
+![](Images/Picture1.png)
 
 _Figure 1. Wing force diagram at the end effector, or the tip._
 
@@ -180,7 +180,7 @@ The Young&#39;s modulus for cardboard from [1] was used to calculate the virtual
 
 Two constraints and a set of initial joint values were used to determine the valid initial condition in Figure 5. The first constraint connects the ends of the two two-bar mechanisms that form the wing tip. The second constraint aligns links A and B to form the fully extended wing position. The set of initial angles were measured from the SolidWorks model when qA = 45 which results in the fully extended wing position at the top of its stroke seen in the figure. An optimizer minimizes the two constraints beginning with the initial condition to determine the true values near that position.
 
-![](Images/Dyn2%2045deg.PNG)
+![](Images/Dyn2%2045deg.png)
 
 _Figure 5. Free body diagram of wings and its reference frames._
 
@@ -188,7 +188,7 @@ _Figure 5. Free body diagram of wings and its reference frames._
 
 A simplified model of the flat plate aerodynamic forces like the figure below is applied to the links in the simulation. The velocity of each link&#39;s center of mass is evaluated, along with the angle of attack and the effective area. The drag force is applied at the center of mass of the link.
 
-![](Images/flat%20plate.PNG)
+![](Images/flat%20plate.png)
 
 _Figure 6. Flat plate aerodynamics_
 
@@ -196,7 +196,7 @@ _Figure 6. Flat plate aerodynamics_
 
 The flapping motion of the wing primarily depends on the time-varying torque input and the angle limiting tab in the bottom arm. The wing starts in a fully extended position pointing 45 degrees up (measured from the bottom arm). Initially, the motor applies a negative torque, and the joint with the angle limiter, being engaged at 180 degrees, acts like a very stiff virtual joint. At the bottom of the stroke, at the critical time step, the torque reverses to begin the upstroke. At this point, the angle limiter becomes disengaged and reverts to the less stiff, normal joint stiffness.
 
-![](Images/Dyn2%20flap.GIF)
+![](Images/Dyn2%20flap.gif)
 
 [_Figure_](https://github.com/biodegradablerobotics/biodegradablerobotics.github.io/blob/main/Images/Dyn2%20flap.gif)_7 Wing in full motion._
 
@@ -204,11 +204,11 @@ The flapping motion of the wing primarily depends on the time-varying torque inp
 
 The wing with no actuation can be evaluated with respect to its kinetic energy output. In the graph below, we see that if the wing is released from the highest height it can reach, it will quickly fall down due to gravity and reach zero kinetic energy (Figure 8.) A visual of the wing dropping from this high point is shown in the animation in Figure 8.
 
-![](Images/Dyn2%20Energy.PNG)
+![](Images/Dyn2%20Energy.png)
 
 _Figure 8. system energy (y-axis) over time (x-axis) evaluation with no actuation_
 
-![](Images/sad.GIF)
+![](Images/sad.gif)
 
 [_Figure_](https://github.com/biodegradablerobotics/biodegradablerobotics.github.io/blob/main/Images/sad.gif)_9. Wing with no actuation coming to zero._
 
