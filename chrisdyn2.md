@@ -42,7 +42,7 @@ The next task was to add an angle limiting device such that qB \&lt;= 0deg. This
 
 My last task was to update the solidworks models and code to reflect the updated geometry and inertial properties. The figure below shows the latest render of our wing prototype. The relative link lengths are slightly adjusted, the overall size is reduced to 75%, and the angle limiter attached to link B is visible in the render.
 
-![](RackMultipart20210329-4-1qqmhqb_html_763888f3821dd3e1.png)
+![](Images/RenderedWing.png)
 
 My teammate was able to acquire the material for our prototype and measure the material&#39;s density. With this density, I was able to measure the mass and inertial properties of each link. The mass and inertial parameters are shown in the tables and figure below.
 
@@ -61,7 +61,7 @@ The angle limiter attachment moves link B&#39;s center of mass from the midpoint
 | --- | --- | --- | --- |
 | B | 0.06735294 | 0.00247059 | 0.07500000 |
 
-![](Images/RenderedWing.png)
+![](Images/B.PNG)
 
 Lastly, I had to update the system kinematics and dynamics code. In the system kinematics code, I updated the position of the wing in the first plot to match the geometry from solidworks. Next, I measured the motor angles of the wing&#39;s fully extended, horizontal position in solidworks and updated the initial values of the optimization problem with those angles. After rerunning the code, I was able to get our new motor torque requirement of 2.22 Nm. In the system dynamics code, I updated the link lengths, link masses, link inertias, and link B&#39;s center of mass location. I reran the code to regenerate plots and animations for b=0 and b=1 cases. The updated force, velocity, and power results and the dynamic simulation are shown in the table and figure below.
 
@@ -75,11 +75,11 @@ Lastly, I had to update the system kinematics and dynamics code. In the system k
 | Input Power A | 0.0128709605097164 |
 | Input Power C | 12.3147386121766 |
 
-![](Images/B.PNG)
+![](Images/dynamics.png)
 
 One additional task that I did not plan to do but ended up doing was to set up the cantilever beam analysis on link B in solidworks. I used the 844.45 MPa modulus of elasticity for corrugated cardboard from [1] that we will replace with our own measured value next week. The beam deflected just over 10mm under the full load. The deflection result is shown in the figure below.
 
-![](RackMultipart20210329-4-1qqmhqb_html_d481c1be5bf83800.png)
+![](Images/displacementB.PNG)
 
 **References:**
 
