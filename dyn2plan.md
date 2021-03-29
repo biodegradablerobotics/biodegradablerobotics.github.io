@@ -1,31 +1,36 @@
 #
 # **Dynamics II Plan**
 
-George
 
-**Identify material**
 
-**Acquire material**
+**George**
 
-**Construct prototype**
+Identify material
 
-**Weigh each link, measure thickness - density**
+Acquire material
 
-Chris
+Construct prototype
 
-**Design test stand**
+Weigh each link, measure thickness - density
 
-**Design servo horns**
 
-**Use density and SW - Mass and Inertia properties**
+**Chris**
 
-Lien
+Design test stand
 
-**Identify motor/servo**
+Design servo horns
 
-**Motor mount (to test stand)**
+Use density and SW - Mass and Inertia properties
 
-Future:
+
+**Lien**
+
+Identify motor/servo
+
+Motor mount (to test stand)
+
+
+**Future**
 
 Link stiffness
 
