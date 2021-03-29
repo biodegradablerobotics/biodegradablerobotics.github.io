@@ -15,11 +15,97 @@
     margin: 0;
     padding: 0;
   }
+  .subtitle{
+    color: LightGray;
+    font-size: min(2vw, 20px);
+    margin: 0vw 0vw min(4vw, 40px) 0vw;
+    padding: 0;
+  }
+  .linkrow{
+    width: min(80vw, 800px);
+    margin: 0 auto
+  }
+  .linkrow:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .linkcolumn{
+    float: center;
+    width: 50%;
+    height: min(8vw, 80px);
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: auto min(3vw, 30px);
+    background-position: center center;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    border: 2px solid white;
+    margin: 0 auto;
+  }
+  .linkcolumn:hover .linkoverlay{
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  .linkoverlay{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    font-size: 20px;
+    margin: auto;
+    border-radius: 10px;
+  }
+  .section{
+    width: min(80vw, 800px);
+    color: white;
+    font-size: min(2vw, 20px);
+    text-align: left;
+    margin: 0 auto
+  }
+  
   .pdf{
     background-color:white;
     width: min(80vw, 800px);
     height: min(103.5vw, 1035px);
     margin: min(8vw, 80px) 0vw;
+  }
+  
+  .galleryrow{
+    width: min(80vw, 800px);
+    height: min(40vw, 400px);
+    margin: 0 auto min(calc(4% - 4px), 36px) auto;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 2px solid white;
+  }
+
+  .galleryrow:hover .galleryoverlay{
+    opacity: 1;
+  }
+  .galleryoverlay{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    margin: 0;
+    padding: 0;
+    background-position: center center;
+  }
+  .gallerytext{
+    padding: 5%;
+    color: white;
+    font-size: min(2vw, 20px);
+    text-align: left;
+  }
+  .textbutton{
+    color: white;
+    font-size: min(4vw, 40px);
+    text-align: center;
+    line-height: min(8vw, 80px);
+    padding: 0;
+    margin: 0;
   }
   
   </style>
