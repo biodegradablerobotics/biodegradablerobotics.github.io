@@ -12,7 +12,7 @@ Please see: [Jupyter Notebook](https://nbviewer.jupyter.org/url/biodegradablerob
 
 Using Solidworks, the team created the following model of a wing, built with a small tab on the bottom link as an angle-limiting constraint to our mechanism (Figure 1.).
 
-![](picture1.PNG)
+![](Picture1.PNG)
 
 _Figure 1. Wing force diagram at the end effector, or the tip._
 
