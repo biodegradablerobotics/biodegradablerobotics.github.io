@@ -1,7 +1,7 @@
 ---
 title: Can a mobile robot be constructed entirely from degradable materials?
 ---
-# Can a mobile robot be constructed entirely from degradable materials?
+# Is it possible to create a biodegradable wing using foldable mechanisms to create net-positive lift?
 Chris Breaux, George Muhn, Lien White, Timothy Graunke
 
 [HOME](index.md)
