@@ -6,6 +6,8 @@ _Chris Breaux, George Muhn, and Lien White_
 
 Please see: [Jupyter Notebook](https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/System%20Dynamics%202%20FINAL.ipynb)
 
+[Dynamics](dynamics.html)
+
 # **Parameterization**
 
 1. **Force and Power Analysis**
