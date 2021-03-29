@@ -74,7 +74,7 @@ With these changes a new iteration was designed and prototype built using the sa
 
 ## Iteration 2
 
-## ![](Images/IMG_8057.jpg) ![](Images/IMG_8058.jpg) ![](Images/IMG_8056.jpg) ![](Images/IMG_8054.jpg) ![](Images/IMG_8055.jpg)
+![](Images/IMG_8057.jpg) ![](Images/IMG_8058.jpg) ![](Images/IMG_8056.jpg) ![](Images/IMG_8054.jpg) ![](Images/IMG_8055.jpg)
 
 
 ## Evaluation 2:

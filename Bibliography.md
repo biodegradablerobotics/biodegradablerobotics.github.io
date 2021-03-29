@@ -79,6 +79,8 @@ Malheiro, Benedita & Ribeiro, Cristina & Ferreira, Fernando & Silva, Manuel & Fe
 Guedes, Pedro. (2015). Design and Implementation of a Biologically Inspired Flying Robot - An
 EPS@ISEP 2014 Spring Project. 10.1145/2808580.2808612
 
-[17] Zoheir Aboura, Nabil Talbi, Samir Allaoui, Malk Benzeggagh. Elastic behavior of corrugated cardboard: Experiments and Modeling. Composite Structures, Elsevier, 2004, 63 (1), pp.53-62. ffhal00636959
+[17] Zoheir Aboura, Nabil Talbi, Samir Allaoui, Malk Benzeggagh. Elastic behavior of corrugated cardboard: Experiments and Modeling. Composite Structures, Elsevier, 2004, 63 (1), pp.53-62. 
+
+[18] [https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/VirtualJoint.ipynb](https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/VirtualJoint.ipynb)
 
 [HOME](index.md)

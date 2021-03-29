@@ -82,7 +82,7 @@ _Figure 3. Tracker data_
 
 1. **Link Stiffness Analysis**
 
-![](RackMultipart20210327-4-t8eqsa_html_97ab906d83616789.jpg)
+![](Images/Cantilever.jpg)
 
 _Figure 4. Cantilever beam test_
 
@@ -178,7 +178,7 @@ The Young&#39;s modulus for cardboard from [1] was used to calculate the virtual
 
 Two constraints and a set of initial joint values were used to determine the valid initial condition in Figure 5. The first constraint connects the ends of the two two-bar mechanisms that form the wing tip. The second constraint aligns links A and B to form the fully extended wing position. The set of initial angles were measured from the SolidWorks model when qA = 45 which results in the fully extended wing position at the top of its stroke seen in the figure. An optimizer minimizes the two constraints beginning with the initial condition to determine the true values near that position.
 
-![](RackMultipart20210327-4-t8eqsa_html_79db7fce771f7ff8.png)
+![](Images/Dyn2%2045deg.PNG)
 
 _Figure 5. Free body diagram of wings and its reference frames._
 
@@ -186,7 +186,7 @@ _Figure 5. Free body diagram of wings and its reference frames._
 
 A simplified model of the flat plate aerodynamic forces like the figure below is applied to the links in the simulation. The velocity of each link&#39;s center of mass is evaluated, along with the angle of attack and the effective area. The drag force is applied at the center of mass of the link.
 
-![](RackMultipart20210327-4-t8eqsa_html_e561b48bd7a349c1.jpg)
+![](Images/flat%20plate.PNG)
 
 _Figure 6. Flat plate aerodynamics_
 
@@ -194,7 +194,7 @@ _Figure 6. Flat plate aerodynamics_
 
 The flapping motion of the wing primarily depends on the time-varying torque input and the angle limiting tab in the bottom arm. The wing starts in a fully extended position pointing 45 degrees up (measured from the bottom arm). Initially, the motor applies a negative torque, and the joint with the angle limiter, being engaged at 180 degrees, acts like a very stiff virtual joint. At the bottom of the stroke, at the critical time step, the torque reverses to begin the upstroke. At this point, the angle limiter becomes disengaged and reverts to the less stiff, normal joint stiffness.
 
-![](RackMultipart20210327-4-t8eqsa_html_c7142f2b8a20e68f.gif)
+![](Images/Dyn2%20flap.GIF)
 
 [_Figure_](https://github.com/biodegradablerobotics/biodegradablerobotics.github.io/blob/main/Images/Dyn2%20flap.gif)_7 Wing in full motion._
 
@@ -202,11 +202,11 @@ The flapping motion of the wing primarily depends on the time-varying torque inp
 
 The wing with no actuation can be evaluated with respect to its kinetic energy output. In the graph below, we see that if the wing is released from the highest height it can reach, it will quickly fall down due to gravity and reach zero kinetic energy (Figure 8.) A visual of the wing dropping from this high point is shown in the animation in Figure 8.
 
-![](RackMultipart20210327-4-t8eqsa_html_da8e0b2c2fe3bbc3.png)
+![](Images/Dyn2%20Energy.PNG)
 
 _Figure 8. system energy (y-axis) over time (x-axis) evaluation with no actuation_
 
-![](RackMultipart20210327-4-t8eqsa_html_f209da5dce889e98.gif)
+![](Images/sad.GIF)
 
 [_Figure_](https://github.com/biodegradablerobotics/biodegradablerobotics.github.io/blob/main/Images/sad.gif)_9. Wing with no actuation coming to zero._
 
@@ -214,11 +214,11 @@ _Figure 8. system energy (y-axis) over time (x-axis) evaluation with no actuatio
 
 Our prototype is again made with C-flute cardboard, which is typical 4mm thick cardboard. We constructed it by cutting four individual links and attached them together with clear tape. The wing is upheld on a cardboard mount constructed with the same cardboard type. Taped onto the B link, or the bottom link that directly connects to the wing tip, is a smaller square piece for cardboard meant to act as a constraint for on the wing as it transitions between different phases (shown in Figures 10-13 below).
 
-![](RackMultipart20210327-4-t8eqsa_html_e4a4d5b43731c842.jpg) ![](RackMultipart20210327-4-t8eqsa_html_9f9e7ec00bfbf433.jpg)
+![](Images/IMG_8058.jpg) ![](Images/IMG_8057.jpg)
 
 _Figure 10. Wing at highest constrained point. Figure 11. Wing at lowest constrained point._
 
-![](RackMultipart20210327-4-t8eqsa_html_fa690af9af3b8e46.jpg) ![](RackMultipart20210327-4-t8eqsa_html_d43b6c901ccb3145.jpg)
+![](Images/IMG_8054.jpg) ![](Images/IMG_8055.jpg)
 
 _Figure 12. Wing partially bent on uprise. Figure 13. Wing at position zero._
 
@@ -227,5 +227,3 @@ _Figure 12. Wing partially bent on uprise. Figure 13. Wing at position zero._
 [1] Zoheir Aboura, Nabil Talbi, Samir Allaoui, Malk Benzeggagh. Elastic behavior of corrugated cardboard: Experiments and Modeling. Composite Structures, Elsevier, 2004, 63 (1), pp.53-62. Ffhal00636959
 
 [2] [https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/VirtualJoint.ipynb](https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/VirtualJoint.ipynb)
-
-13
