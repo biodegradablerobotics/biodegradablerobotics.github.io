@@ -6,7 +6,7 @@
 
 
 1. **Force and Power Analysis**
-
+![](Images/Picture1.png)
 *Figure 1. Wing force diagram at the end effector, or the tip.* 
 
 1. **Weight of Links**
