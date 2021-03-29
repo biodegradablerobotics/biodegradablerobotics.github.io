@@ -38,7 +38,7 @@ The next task was to add an angle limiting device such that qB \&lt;= 0deg. This
 | Overlap length | 0.04 |
 | Width | 0.05 |
 
-![](RackMultipart20210329-4-1qqmhqb_html_7ceddc116ec8bde5.png)
+![](Images/limiter.PNG)
 
 My last task was to update the solidworks models and code to reflect the updated geometry and inertial properties. The figure below shows the latest render of our wing prototype. The relative link lengths are slightly adjusted, the overall size is reduced to 75%, and the angle limiter attached to link B is visible in the render.
 
