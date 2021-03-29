@@ -18,7 +18,7 @@ Using Solidworks, the team created the following model of a wing, built with a s
 
 _Figure 1. Wing force diagram at the end effector, or the tip._
 
-1. **Weight of Links**
+2. **Weight of Links**
 
 Density of Cardboard (d) = 0.501kg/(1.27\*0.6604\*0.004)m = 149 kg/m³
 
@@ -32,13 +32,13 @@ WTop = Barea \* d = 1.98\*(10^-4) m³ \* 149 kg/m³ \* 1000 g = 29.502 g
 
 TotalW = WBottom + WTop = 26.82 g + 29.502 g = 56.32 g
 
-  1. **Force of End Effector (E.E.)**
+  3. **Force of End Effector (E.E.)**
 
 FE.E. = 2 \* (0.05632kg \* 9.81m/s²) = 1.105 N
 
 We want our E.E. to support double the wing&#39;s weight, which explains the additional multiplication by 2 in our force equation.
 
-  1. **Desired Velocity of E.E.**
+  4. **Desired Velocity of E.E.**
 
 Arcwing = (45° \* π/180° \* 0.4m \* 2arc) = 0.6283 radians
 
@@ -52,7 +52,7 @@ Range: 0.6283 - 3.142 m/s
 
 The minimum, ideal, and maximum velocities are dependent upon the herz or flapping frequency we decided in our specifications table.
 
-  1. **Power of E.E.**
+  5. **Power of E.E.**
 
 Power (min) = FE.E. \* VE.E. (min) = 1.105 N \* 0.6283 m/s = 0.6943 Watts
 
@@ -64,7 +64,7 @@ Range: 0.6943- 3.472 Watts
 
 These calculations are well in the range of power consumption we hope to achieve. The smaller the value the better, and based on these calculations the wing will require a power consumption less than our ideal value, which is excellent news.
 
-  1. **Torque**
+  6. **Torque**
 
 T = 2.227 Nm
 
