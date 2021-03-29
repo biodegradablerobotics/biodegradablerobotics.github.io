@@ -1,9 +1,9 @@
-﻿Servo Actuator Parameter Analysis
-
-*Team 3: B.I.R.B*
+﻿# Servo Actuator Parameter Analysis
 
 *Lien White*
 
+[Dynamics](DynamicsPage.html)
+[Home](index.md)
 
 1. **Force and Power Analysis**
 ![](Images/Picture1.png)
@@ -155,4 +155,5 @@ Something else the team will need to talk about is the material makeup of these 
 Another thought to consider is the water-proof rating of the servos we look into. If our robot is to be biodegradable, it’s possible that it will be placed in a location that is muddy or wet. This would mean a water-proof servo is in order, but since that may not be the primary goal of our robot it may not be as important of a feature to focus on. 
 
 
-PAGE1
+[Dynamics](DynamicsPage.html)
+[Home](index.md)
