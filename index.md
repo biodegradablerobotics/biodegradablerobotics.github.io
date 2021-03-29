@@ -238,7 +238,7 @@
   </div>
 
   <div class=galleryrow align="center" style="background-image: url('Images/presentation1.jpg'); background-size: cover">
-      <a href="presentation2.html" style="text-decoration: none;">
+      <a href="Presentation2.html" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Presentation II</b>
