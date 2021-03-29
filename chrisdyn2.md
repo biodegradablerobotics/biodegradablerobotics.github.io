@@ -1,5 +1,7 @@
-#
 # **Dynamics II Prep**
+
+[Dynamics](DynamicsPage.html)
+[Home](index.md)
 
 Zipped folder:
 
@@ -80,6 +82,9 @@ Lastly, I had to update the system kinematics and dynamics code. In the system k
 One additional task that I did not plan to do but ended up doing was to set up the cantilever beam analysis on link B in solidworks. I used the 844.45 MPa modulus of elasticity for corrugated cardboard from [1] that we will replace with our own measured value next week. The beam deflected just over 10mm under the full load. The deflection result is shown in the figure below.
 
 ![](Images/displacementB.PNG)
+
+[Dynamics](DynamicsPage.html)
+[Home](index.md)
 
 **References:**
 
