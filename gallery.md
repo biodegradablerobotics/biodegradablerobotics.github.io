@@ -4,28 +4,31 @@ All images in the repo appear in assignments or are unnecessary duplicates.
 
 All images can be found [here](https://github.com/biodegradablerobotics/biodegradablerobotics.github.io/tree/main/Images)
 
+## Conceptual CAD Design
+
 ![](Images/RenderedWing.png)
 
-Conceptual CAD Design
+## Conceptual Prototype Design
 
 ![](Images/IMG_8056.jpg)
 
-Conceptual Prototype Design
+## Foldable CAD Design
 
 ![](Images/flat%20-%20Copy.png)
 ![](Images/folded.png)
 
-Foldable CAD Design
+## Foldable Protoype Design
 
 ![](Images/flatpaper.jpg)
 ![](Images/finalproto.JPG)
 
-Foldable Protoype Design
+## Final Simulation
 
 ![](Images/FINALFLAPgif.gif)
 
-Final Simulation
+
+## Final Test
 
 ![](Images/prototype%20gif.gif)
 
-Final Test
+
