@@ -177,19 +177,7 @@
       </a>
   </div>
   
-  <div class=section align="center">
-    <p style="font-size: min(4vw, 25px)">Presentation 1</p>
-  </div>
-
-  <div class=galleryrow align="center" style="background-image: url('Images/presentation1.JPG'); background-size: cover">
-      <a href="presentation1.html" style="text-decoration: none;">
-        <div class=galleryoverlay>
-          <div class=gallerytext>
-            <b>Presentation 1</b>
-          </div>
-        </div>
-      </a>
-  </div>
+  
 
   <div class=section align="center">
     <p style="font-size: min(4vw, 25px)">System Dynamics</p>
@@ -205,22 +193,22 @@
       </a>
   </div>
 
-  <div class=section align="center">
-    <p style="font-size: min(4vw, 25px)">Presentation II</p>
+   <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Design Optimization</p>
   </div>
 
-  <div class=galleryrow align="center" style="background-image: url('Images/presentation1.JPG'); background-size: cover">
-      <a href="Presentation2.html" style="text-decoration: none;">
+  <div class=galleryrow align="center" style="background-image: url('Code/DataCollect/FINALFLAPgif.gif'); background-size: cover">
+      <a href="https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/Optimization.ipynb" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
-            <b>Presentation II</b>
+            <b>Design Optimization</b>
           </div>
         </div>
       </a>
-  </div>
+  </div> 
 
   <div class=section align="center">
-    <p style="font-size: min(4vw, 25px)">Design and Manufacturing</p>
+    <p style="font-size: min(4vw, 25px)">Manufacturing Planning</p>
   </div>
 
   <div class=galleryrow align="center" style="background-image: url('Manufacturing/images/foldedpaper.jpg'); background-size: cover">
@@ -233,19 +221,7 @@
       </a>
   </div>
 
-  <div class=section align="center">
-    <p style="font-size: min(4vw, 25px)">Design Optimization</p>
-  </div>
 
-  <div class=galleryrow align="center" style="background-image: url('Code/DataCollect/FINALFLAPgif.gif'); background-size: cover">
-      <a href="https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/Optimization.ipynb" style="text-decoration: none;">
-        <div class=galleryoverlay>
-          <div class=gallerytext>
-            <b>Design Optimization</b>
-          </div>
-        </div>
-      </a>
-  </div>
 
   <div class=section align="center">
     <p style="font-size: min(4vw, 25px)">Data Collection and Experimental Validation</p>
@@ -270,6 +246,34 @@
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Presentation III</b>
+          </div>
+        </div>
+      </a>
+  </div>
+
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Presentation II</p>
+  </div>
+
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Presentation 1</p>
+  </div>
+
+  <div class=galleryrow align="center" style="background-image: url('Images/presentation1.JPG'); background-size: cover">
+      <a href="presentation1.html" style="text-decoration: none;">
+        <div class=galleryoverlay>
+          <div class=gallerytext>
+            <b>Presentation 1</b>
+          </div>
+        </div>
+      </a>
+  </div>
+
+  <div class=galleryrow align="center" style="background-image: url('Images/presentation1.JPG'); background-size: cover">
+      <a href="Presentation2.html" style="text-decoration: none;">
+        <div class=galleryoverlay>
+          <div class=gallerytext>
+            <b>Presentation II</b>
           </div>
         </div>
       </a>
