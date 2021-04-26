@@ -252,7 +252,7 @@
   </div>
 
   <div class=galleryrow align="center" style="background-image: url('Manufacturing/images/foldedpaper.jpg'); background-size: cover">
-      <a href="Manufacturing/Manufacturing" style="text-decoration: none;">
+      <a href="Code/DataCollect/DataCollection" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Data Collection and Experimental Validation</b>
