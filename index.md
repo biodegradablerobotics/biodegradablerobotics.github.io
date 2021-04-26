@@ -329,7 +329,7 @@
   </div>
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
     <div class="linkcolumn" align="center" style="width: 50%;">
-      <a href="code" style="text-decoration: none;">
+      <a href="code.md" style="text-decoration: none;">
         <div class=linkoverlay><p class="textbutton">Code</p></div>
       </a>
     </div>
