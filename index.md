@@ -291,5 +291,49 @@
     </div>
   </div>
   
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Data</p>
+  </div>
+  <div class="linkrow" style=" margin: min(10vw, 100px) auto">
+    <div class="linkcolumn" align="center" style="width: 50%;">
+      <a href="data.md" style="text-decoration: none;">
+        <div class=linkoverlay><p class="textbutton">Data</p></div>
+      </a>
+    </div>
+  </div>
+  
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">gallery</p>
+  </div>
+  <div class="linkrow" style=" margin: min(10vw, 100px) auto">
+    <div class="linkcolumn" align="center" style="width: 50%;">
+      <a href="gallery.md" style="text-decoration: none;">
+        <div class=linkoverlay><p class="textbutton">Gallery</p></div>
+      </a>
+    </div>
+  </div>
+  
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Designs</p>
+  </div>
+  <div class="linkrow" style=" margin: min(10vw, 100px) auto">
+    <div class="linkcolumn" align="center" style="width: 50%;">
+      <a href="cad.md" style="text-decoration: none;">
+        <div class=linkoverlay><p class="textbutton">Designs</p></div>
+      </a>
+    </div>
+  </div>
+  
+  <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Code</p>
+  </div>
+  <div class="linkrow" style=" margin: min(10vw, 100px) auto">
+    <div class="linkcolumn" align="center" style="width: 50%;">
+      <a href="code.md" style="text-decoration: none;">
+        <div class=linkoverlay><p class="textbutton">Code</p></div>
+      </a>
+    </div>
+  </div>
+  
 </body>
 </html>
