@@ -251,7 +251,7 @@
     <p style="font-size: min(4vw, 25px)">Data Collection and Experimental Validation</p>
   </div>
 
-  <div class=galleryrow align="center" style="background-image: url('Manufacturing/images/foldedpaper.jpg'); background-size: cover">
+  <div class=galleryrow align="center" style="background-image: url('Code/DataCollect/FINALFLAPgif.gif'); background-size: cover">
       <a href="Code/DataCollect/DataCollection" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
