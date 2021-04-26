@@ -234,6 +234,20 @@
   </div>
 
   <div class=section align="center">
+    <p style="font-size: min(4vw, 25px)">Design Optimization</p>
+  </div>
+
+  <div class=galleryrow align="center" style="background-image: url('Manufacturing/images/foldedpaper.JPG'); background-size: cover">
+      <a href="Manufacturing/Manufacturing" style="text-decoration: none;">
+        <div class=galleryoverlay>
+          <div class=gallerytext>
+            <b>Design Optimization</b>
+          </div>
+        </div>
+      </a>
+  </div>
+
+  <div class=section align="center">
     <p style="font-size: min(4vw, 25px)">Bibliography</p>
   </div>
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
