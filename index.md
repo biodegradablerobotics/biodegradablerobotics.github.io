@@ -303,7 +303,7 @@
   </div>
   
   <div class=section align="center">
-    <p style="font-size: min(4vw, 25px)">gallery</p>
+    <p style="font-size: min(4vw, 25px)">Gallery</p>
   </div>
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
     <div class="linkcolumn" align="center" style="width: 50%;">
