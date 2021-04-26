@@ -265,8 +265,8 @@
     <p style="font-size: min(4vw, 25px)">Presentation III</p>
   </div>
 
-  <div class=galleryrow align="center" style="background-image: url('Manufacturing/images/foldedpaper.jpg'); background-size: cover">
-      <a href="Manufacturing/Manufacturing" style="text-decoration: none;">
+  <div class=galleryrow align="center" style="background-image: url('Images/presentation1.JPG'); background-size: cover">
+      <a href="Presentation3.html" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Presentation III</b>

@@ -1,0 +1,86 @@
+<html>
+<style>
+  body{
+    font-family:Arial;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('Images/duckBG.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: center center;
+  }
+  .title{
+    color: white;
+    font-size: min(5vw, 50px);
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+  }
+  .linkrow{
+    width: min(80vw, 800px);
+    margin: 0 auto
+  }
+  .linkrow:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .linkcolumn{
+    float: center;
+    width: 50%;
+    height: min(8vw, 80px);
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: auto min(3vw, 30px);
+    background-position: center center;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    border: 2px solid white;
+    margin: 0 auto;
+  }
+  .linkcolumn:hover .linkoverlay{
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  .linkoverlay{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    font-size: 20px;
+    margin: auto;
+    border-radius: 10px;
+  }
+  .textbutton{
+    color: white;
+    font-size: min(4vw, 40px);
+    text-align: center;
+    line-height: min(8vw, 80px);
+    padding: 0;
+    margin: 0;
+  }
+  .pdf{
+    background-color:white;
+    width: min(80vw, 800px);
+    height: min(103.5vw, 1035px);
+    margin: min(8vw, 80px) 0vw;
+  }
+  
+  </style>
+  
+<body align="center">
+  
+  <p class=title align="center" style="margin: min(10vw, 100px) 0% 0% 0%">Presentation II</p>
+  
+  <div class="linkrow" style=" margin: min(8vw, 80px) auto 0 auto">
+    <div class="linkcolumn" align="center" style="width: 50%;">
+      <a href="https://youtu.be/9RJfaXgFtNw" style="text-decoration: none;">
+        <div class=linkoverlay><p class="textbutton">Video</p></div>
+      </a>
+    </div>
+  </div>
+  
+  <p align="center">  
+    <a href="Documents/PresentationIII.pdf" download><embed src="Documents/PresentationIII.pdf" class=pdf></a>
+  </p>
+  
+</body>
+</html>
