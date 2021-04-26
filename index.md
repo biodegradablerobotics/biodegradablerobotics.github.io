@@ -296,7 +296,7 @@
   </div>
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
     <div class="linkcolumn" align="center" style="width: 50%;">
-      <a href="data" style="text-decoration: none;">
+      <a href="data.md" style="text-decoration: none;">
         <div class=linkoverlay><p class="textbutton">Data</p></div>
       </a>
     </div>
@@ -307,7 +307,7 @@
   </div>
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
     <div class="linkcolumn" align="center" style="width: 50%;">
-      <a href="gallery" style="text-decoration: none;">
+      <a href="gallery.md" style="text-decoration: none;">
         <div class=linkoverlay><p class="textbutton">Gallery</p></div>
       </a>
     </div>
@@ -318,7 +318,7 @@
   </div>
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
     <div class="linkcolumn" align="center" style="width: 50%;">
-      <a href="cad" style="text-decoration: none;">
+      <a href="cad.md" style="text-decoration: none;">
         <div class=linkoverlay><p class="textbutton">Designs</p></div>
       </a>
     </div>
