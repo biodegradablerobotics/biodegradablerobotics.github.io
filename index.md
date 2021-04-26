@@ -292,34 +292,34 @@
   </div>
   
   <div class=section align="center">
-    <p style="font-size: min(4vw, 25px)">Bibliography</p>
+    <p style="font-size: min(4vw, 25px)">Data</p>
   </div>
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
     <div class="linkcolumn" align="center" style="width: 50%;">
-      <a href="Bibliography" style="text-decoration: none;">
-        <div class=linkoverlay><p class="textbutton">Bibliography</p></div>
+      <a href="data" style="text-decoration: none;">
+        <div class=linkoverlay><p class="textbutton">Data</p></div>
       </a>
     </div>
   </div>
   
   <div class=section align="center">
-    <p style="font-size: min(4vw, 25px)">Bibliography</p>
+    <p style="font-size: min(4vw, 25px)">gallery</p>
   </div>
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
     <div class="linkcolumn" align="center" style="width: 50%;">
-      <a href="Bibliography" style="text-decoration: none;">
-        <div class=linkoverlay><p class="textbutton">Bibliography</p></div>
+      <a href="gallery" style="text-decoration: none;">
+        <div class=linkoverlay><p class="textbutton">Gallery</p></div>
       </a>
     </div>
   </div>
   
   <div class=section align="center">
-    <p style="font-size: min(4vw, 25px)">Bibliography</p>
+    <p style="font-size: min(4vw, 25px)">Designs</p>
   </div>
   <div class="linkrow" style=" margin: min(10vw, 100px) auto">
     <div class="linkcolumn" align="center" style="width: 50%;">
-      <a href="Bibliography" style="text-decoration: none;">
-        <div class=linkoverlay><p class="textbutton">Bibliography</p></div>
+      <a href="cad" style="text-decoration: none;">
+        <div class=linkoverlay><p class="textbutton">Designs</p></div>
       </a>
     </div>
   </div>
