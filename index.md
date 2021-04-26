@@ -223,7 +223,7 @@
     <p style="font-size: min(4vw, 25px)">Design and Manufacturing</p>
   </div>
 
-  <div class=galleryrow align="center" style="background-image: url('Manufacturing/images/foldedpaper.JPG'); background-size: cover">
+  <div class=galleryrow align="center" style="background-image: url('Manufacturing/images/foldedpaper.jpg'); background-size: cover">
       <a href="Manufacturing/Manufacturing" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
@@ -237,7 +237,7 @@
     <p style="font-size: min(4vw, 25px)">Design Optimization</p>
   </div>
 
-  <div class=galleryrow align="center" style="background-image: url('Manufacturing/images/foldedpaper.JPG'); background-size: cover">
+  <div class=galleryrow align="center" style="background-image: url('Manufacturing/images/foldedpaper.jpg'); background-size: cover">
       <a href="Manufacturing/Manufacturing" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
