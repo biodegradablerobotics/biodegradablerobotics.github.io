@@ -129,6 +129,9 @@
     <p style="margin: 0 0 0 5%;">George Muhn     gmuhn@asu.edu</p>
     <p style="margin: 0 0 0 5%;"><a href="https://geomuhn.github.io./">All about George!</a></p>
     <p style="margin: 0 0 0 5%;">Lien White      ljwhite8@asu.edu</p>
+    <p style="margin: 0 0 0 5%;">
+      This website details the design, simulation, and testing of a mallard duck inspired foldable robotic wing. First, a research question was defined. Next, the mallard duck was selected as the bioinspiration and a set of initial specifications were defined. The wing's kinematics were calculated, and then a series of dynamics simulations were performed. The design was optimized in the simulation. The design was converted to a manufacturing plan. Lastly, a hardware prototype was constructed and tested for experimental validation.
+    </p>
   </div>
   
   <div class=section align="center">
