@@ -238,7 +238,7 @@
   </div>
 
   <div class=galleryrow align="center" style="background-image: url('Code/DataCollect/FINALFLAPgif.gif'); background-size: cover">
-      <a href="Code/Optimization" style="text-decoration: none;">
+      <a href="https://nbviewer.jupyter.org/url/biodegradablerobotics.github.io/Code/Optimization.ipynb" style="text-decoration: none;">
         <div class=galleryoverlay>
           <div class=gallerytext>
             <b>Design Optimization</b>
