@@ -4,6 +4,8 @@ All images in the repo appear in assignments or are unnecessary duplicates.
 
 All images can be found [here](https://github.com/biodegradablerobotics/biodegradablerobotics.github.io/tree/main/Images)
 
+A summary of the images of this project is below
+
 ## Conceptual CAD Design
 
 ![](Images/RenderedWing.png)
