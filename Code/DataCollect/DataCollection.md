@@ -150,11 +150,6 @@ vshift = 110
 freq = 0.005
 
 extract_plot(ee6,base6,amp,freq,vshift)
-HTML("""
-<video width="320" height="480" controls>
-  <source src="Vid6.mp4" type="video/mp4">
-</video>
-""")
 ```
 
     0.18155234989999983
@@ -169,6 +164,7 @@ HTML("""
   <source src="Vid6.mp4" type="video/mp4">
 </video>
 
+[Video 1](Vid.mp4)
 
 
 
@@ -196,12 +192,6 @@ vshift = 110
 freq = 0.007
 
 extract_plot(ee3,base3,amp,freq,vshift)
-
-HTML("""
-<video width="320" height="480" controls>
-  <source src="Vid3.mp4" type="video/mp4">
-</video>
-""")
 ```
 
     0.15047987119999984
@@ -243,12 +233,6 @@ amp = np.deg2rad(45)
 vshift = 90
 freq=0.007
 extract_plot(ee2,base2,amp,freq,vshift)
-
-HTML("""
-<video width="320" height="480" controls>
-  <source src="Vid2.mp4" type="video/mp4">
-</video>
-""")
 ```
 
     -0.005773203300000029
@@ -291,13 +275,6 @@ vshift = 100
 freq = 0.005
 
 extract_plot(ee4,base4,amp,freq,vshift)
-
-
-HTML("""
-<video width="320" height="480" controls>
-  <source src="Vid4.mp4" type="video/mp4">
-</video>
-""")
 ```
 
     0.0009551232000000187
@@ -384,29 +361,7 @@ plt.ylim([23,30])
 
 # Video Comparison
 
-
-```python
-Image(filename='FINALFLAPgif.gif') 
-```
-
-
-
-
-    <IPython.core.display.Image object>
-
-
-
-
-```python
-HTML("""
-<video width="320" height="480" controls>
-  <source src="Vid6.mp4" type="video/mp4">
-</video>
-""")
-```
-
-
-
+![gif](FINALFLAPgif.gif)
 
 
 <video width="320" height="480" controls>
